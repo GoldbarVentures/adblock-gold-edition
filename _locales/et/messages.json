@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"Lõpuks on valminud tõhus blokeerija. Protsessori- ja mälusõbralik.",
+    "message":"Alternate, kergem võtma kuulsa adblock-laiendus",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock — Töölaud",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition — Töölaud",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"Seaded",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Võrgutaotluste logi",
+    "message":"AdBlock Gold Edition — Võrgutaotluste logi",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"Klõps: keela\/luba superNanoBlock sellel saidil.\n\nCtrl+klõps: keela superNanoBlock ainult sellel lehel.",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "message":"Klõps: keela\/luba AdBlock Gold Edition sellel saidil.\n\nCtrl+klõps: keela AdBlock Gold Edition ainult sellel lehel.",
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"blokeeritud taotlusi",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>See valik lubab <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plusiga ühilduvate &ldquo;elemente peitvate&rdquo; filtrite<\/a> lubamist. Need filtrid parandavad lehtede välimust, peites elemente, mida ei blokeerita võrgupäringutel põhinevate filtritega.<\/p><p>Selle valiku lubamine suurendab <i>superNanoBlock<\/i>'i mälu kasutavust.<\/p>",
+    "message":"<p>See valik lubab <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plusiga ühilduvate &ldquo;elemente peitvate&rdquo; filtrite<\/a> lubamist. Need filtrid parandavad lehtede välimust, peites elemente, mida ei blokeerita võrgupäringutel põhinevate filtritega.<\/p><p>Selle valiku lubamine suurendab <i>AdBlock Gold Edition<\/i>'i mälu kasutavust.<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"Nimekiri domeenidest, millel superNanoBlock keelatakse. Üks domeen rea kohta, vigaseid domeeninimesid eiratakse.",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"Nimekiri domeenidest, millel AdBlock Gold Edition keelatakse. Üks domeen rea kohta, vigaseid domeeninimesid eiratakse.",
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"Impordi ja lisa",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"Selle valiku lubamisel on sul võimalik võrgupäringuid detailselt uurida. Võrgupäringute logimine suurendab superNanoBlock'i mälukasutust. Kuna enamik kasutajaid ei kasuta seda, on valik vaikimisi keelatud.",
+    "message":"Selle valiku lubamisel on sul võimalik võrgupäringuid detailselt uurida. Võrgupäringute logimine suurendab AdBlock Gold Edition'i mälukasutust. Kuna enamik kasutajaid ei kasuta seda, on valik vaikimisi keelatud.",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"Kõik seaded kirjutatakse üle, kasutades varundust kuupäevast {{time}} ning superNanoBlock taaskäivitatakse.\n\nKirjutan üle kõik praegused seaded varundusandmetega?",
+    "message":"Kõik seaded kirjutatakse üle, kasutades varundust kuupäevast {{time}} ning AdBlock Gold Edition taaskäivitatakse.\n\nKirjutan üle kõik praegused seaded varundusandmetega?",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"Kõik seaded kustutatakse ning superNanoBlock taaskäivitatakse.\n\nTaastan superNanoBlock'i algseadetele?",
+    "message":"Kõik seaded kustutatakse ning AdBlock Gold Edition taaskäivitatakse.\n\nTaastan AdBlock Gold Edition'i algseadetele?",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

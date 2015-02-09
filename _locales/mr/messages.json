@@ -4,12 +4,12 @@
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"शेवटी, एक कार्यक्षम ब्लॉकर क्रोमियम आधारित ब्राउझरांसाठी. सीपीयू आणि मेमरी वर सोपे जातो.",
+    "message":"प्रसिद्ध एडब्लॉक विस्तार पर्यायी, फिकट घेऊन",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
     "message":"म्यूब्लॉक — डैशबोर्ड",
-    "description":"English: superNanoBlock — Dashboard"
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"सेटिंग्ज",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Network request log",
+    "message":"AdBlock Gold Edition — Network request log",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -41,7 +41,7 @@
   },
   "popupPowerSwitchInfo":{
     "message":"क्लिक करा : या साइटसाठी म्यूब्लॉक अक्षम\/सक्षम.\n\nCtrl+क्लिक करा: फक्त या पृष्ठावर म्यूब्लॉक अक्षम.",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"विनंत्या अवरोधित",
@@ -361,7 +361,7 @@
   },
   "whitelistPrompt":{
     "message":"आपली होस्ट नावांची यादी ज्याचासाठी म्यूब्लॉक अक्षम केले जाईल. प्रति ओळ एक प्रविष्टी. अवैध होस्ट नावांकडे शांतपणे दुर्लक्ष केले जाईल.",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"आयात आणि समावेश करा",

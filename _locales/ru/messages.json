@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"Наконец-то, эффективный блокировщик для браузеров, не нагружающий ЦП и оперативную память.",
+    "message":"Альтернатива знаменитого расширения AdBlock",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock — Панель управления",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition — Панель управления",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"Настройки",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Журнал сетевых запросов",
+    "message":"AdBlock Gold Edition — Журнал сетевых запросов",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"Нажмите кнопку питания, чтобы <br>навсегда отключить\/включить <br>superNanoBlock для текущего сайта",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "message":"Нажмите кнопку питания, чтобы <br>навсегда отключить\/включить <br>AdBlock Gold Edition для текущего сайта",
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"запросов заблокировано",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>Эта опция включает разбор и применение <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-совместимых &ldquo;element hiding&rdquo; фильтров<\/a>. Эти фильтры по сути только визуальные, они позволяют скрыть элементы страницы, которые не могут быть заблокированы матрицей фильтров или ABP-фильтрами.<\/p><p>Включение этой опции увеличивает использование памяти для <i>superNanoBlock<\/i>.<\/p>",
+    "message":"<p>Эта опция включает разбор и применение <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-совместимых &ldquo;element hiding&rdquo; фильтров<\/a>. Эти фильтры по сути только визуальные, они позволяют скрыть элементы страницы, которые не могут быть заблокированы матрицей фильтров или ABP-фильтрами.<\/p><p>Включение этой опции увеличивает использование памяти для <i>AdBlock Gold Edition<\/i>.<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"Список имён узлов, для которых superNanoBlock будет отключен. Одна запись на строку. Неправильные имена будут тихо проигнорированы.",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"Список имён узлов, для которых AdBlock Gold Edition будет отключен. Одна запись на строку. Неправильные имена будут тихо проигнорированы.",
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"Импортировать и добавить",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"Вы можете проверить сведения о сетевых запросах, включив эту опцию. Журнал сетевых запросов увеличивает объем памяти superNanoBlock. Поскольку многие пользователи никогда не будут использовать эту функцию, по умолчанию она отключена.",
+    "message":"Вы можете проверить сведения о сетевых запросах, включив эту опцию. Журнал сетевых запросов увеличивает объем памяти AdBlock Gold Edition. Поскольку многие пользователи никогда не будут использовать эту функцию, по умолчанию она отключена.",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"Все Ваши настройки будут заменены данными от {{time}}, и superNanoBlock будет перезапущен.\n\nПерезаписать все существующие параметры данными из резервной копии?",
+    "message":"Все Ваши настройки будут заменены данными от {{time}}, и AdBlock Gold Edition будет перезапущен.\n\nПерезаписать все существующие параметры данными из резервной копии?",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"Все Ваши настройки будут сброшены, и superNanoBlock будет перезапущен. \n\nВосстановить настройки по умолчанию?",
+    "message":"Все Ваши настройки будут сброшены, и AdBlock Gold Edition будет перезапущен. \n\nВосстановить настройки по умолчанию?",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

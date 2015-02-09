@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"Finalmente, um bloqueador eficiente para os navegadores baseados no Chromium. Leve na CPU e memória.",
+    "message":"Alternativa take, mais leve na extensão Adblock famoso",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock — Painel de Controlo",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition — Painel de Controlo",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"Definições",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Network request log",
+    "message":"AdBlock Gold Edition — Network request log",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"Clique: desativar\/ativar o superNanoBlock para este site.\n\nCtrl+clique: só desativar o superNanoBlock nesta página.",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "message":"Clique: desativar\/ativar o AdBlock Gold Edition para este site.\n\nCtrl+clique: só desativar o AdBlock Gold Edition nesta página.",
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"pedidos bloqueados",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>Esta opção permite a análise e aplicação de <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">filtros de &ldquo;ocultação de elementos&rdquo; compatíveis com o Adblock Plus<\/a>. Estes filtros são essencialmente cosméticos, servindo para ocultar elementos numa página web que sejam considerados incómodo visual, e que não podem ser bloqueados pelo motor de filtragem baseado em pedidos de rede.<\/p><p>Activar esta funcionalidade aumenta o consumo de memória do <i>superNanoBlock<\/i>.<\/p>",
+    "message":"<p>Esta opção permite a análise e aplicação de <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">filtros de &ldquo;ocultação de elementos&rdquo; compatíveis com o Adblock Plus<\/a>. Estes filtros são essencialmente cosméticos, servindo para ocultar elementos numa página web que sejam considerados incómodo visual, e que não podem ser bloqueados pelo motor de filtragem baseado em pedidos de rede.<\/p><p>Activar esta funcionalidade aumenta o consumo de memória do <i>AdBlock Gold Edition<\/i>.<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"Lista pessoal de hostnames para os quais o superNanoBlock será desactivado. Uma entrada por linha. Hostnames inválidos serão ignorados silenciosamente.",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"Lista pessoal de hostnames para os quais o AdBlock Gold Edition será desactivado. Uma entrada por linha. Hostnames inválidos serão ignorados silenciosamente.",
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"Importar e anexar",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"Poderá analisar os detalhes dos pedidos de rede se ativar esta opção. O registo de pedidos de rede aumenta a memória utilizada pelo superNanoBlock. Sendo que muitos utilizadores não utilizarão esta opção, ela estará desativada por predefinição.",
+    "message":"Poderá analisar os detalhes dos pedidos de rede se ativar esta opção. O registo de pedidos de rede aumenta a memória utilizada pelo AdBlock Gold Edition. Sendo que muitos utilizadores não utilizarão esta opção, ela estará desativada por predefinição.",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"Todas as suas definições serão substituídas utilizando os dados da cópia de segurança de {{time}}, e superNanoBlock irá reiniciar.\n\nSubstituir todas as definições existentes utilizando os dados da cópia de segurança?",
+    "message":"Todas as suas definições serão substituídas utilizando os dados da cópia de segurança de {{time}}, e AdBlock Gold Edition irá reiniciar.\n\nSubstituir todas as definições existentes utilizando os dados da cópia de segurança?",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"Todas as suas definições serão removidas e superNanoBlock irá reiniciar. \n\nRedefinir superNanoBlock para as definições de fábrica?",
+    "message":"Todas as suas definições serão removidas e AdBlock Gold Edition irá reiniciar. \n\nRedefinir AdBlock Gold Edition para as definições de fábrica?",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

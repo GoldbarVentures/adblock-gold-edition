@@ -4,12 +4,12 @@
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"Chromiumベースブラウザー向けの高効率なブロッカーが遂に登場。CPUとメモリーの負担を抑えます。",
+    "message":"有名な自分好みの延長上のオルタナティブ、軽いテイク",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock — ダッシュボード",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition — ダッシュボード",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":" 設定",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Network request log",
+    "message":"AdBlock Gold Edition — Network request log",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -41,7 +41,7 @@
   },
   "popupPowerSwitchInfo":{
     "message":"このボタンを押して<br>今のサイトだけに<br>エクステンションを完全にオンかオフにする",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"リクエストはブロックされました",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>このオプションは<a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus適合の &ldquo;要素遮蔽&rdquo;フィルター<\/a>の解析と施行を有効にします。これらのフィルターは表面的で、ネットリクエストベースのフィルタリングエンジンでブロックできない視覚的に迷惑な要素をウェブページ上で隠す物です。<\/p><p>この機能を有効にすると<i>superNanoBlock<\/i>の使用メモリーを増やします。<\/p>",
+    "message":"<p>このオプションは<a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus適合の &ldquo;要素遮蔽&rdquo;フィルター<\/a>の解析と施行を有効にします。これらのフィルターは表面的で、ネットリクエストベースのフィルタリングエンジンでブロックできない視覚的に迷惑な要素をウェブページ上で隠す物です。<\/p><p>この機能を有効にすると<i>AdBlock Gold Edition<\/i>の使用メモリーを増やします。<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -361,7 +361,7 @@
   },
   "whitelistPrompt":{
     "message":"このエクステンションホスト名のリストは無効になります。１ 行につき １ つのエントリ。無効なホスト名はサイレント モードで無視されます。",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"インポートと追加",
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"{{time}}のバックアップデータを使用して全ての設定を上書きした後、superNanoBlockが再起動します。\n\nバックアップデータを使用して既存の全ての設定の上書きを実行しますか？",
+    "message":"{{time}}のバックアップデータを使用して全ての設定を上書きした後、AdBlock Gold Editionが再起動します。\n\nバックアップデータを使用して既存の全ての設定の上書きを実行しますか？",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"全ての設定が消去された後、superNanoBlockが再起動します。\n\n初期設定にリセットしますか？",
+    "message":"全ての設定が消去された後、AdBlock Gold Editionが再起動します。\n\n初期設定にリセットしますか？",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

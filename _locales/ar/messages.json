@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"وأخيراً, مانع اعلانات كفوء. خفيف على المعالج و الذاكرة.",
+    "message":"بديل، أخف وزنا تأخذ على ارشادية ادبلوك الشهير",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock — قوائم إعداد المعلومات",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition — قوائم إعداد المعلومات",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"الإعدادات",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Network request log",
+    "message":"AdBlock Gold Edition — Network request log",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -41,7 +41,7 @@
   },
   "popupPowerSwitchInfo":{
     "message":"اضغط: لتعطيل\/لتشغيل الاضافه بالكامل.\n\nCtrl+click لتعطيل الاداة لصفحه فقط",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"تم منع الطلبات",
@@ -361,7 +361,7 @@
   },
   "whitelistPrompt":{
     "message":"لستتك الخاصه فيك التي سوف يتم منعها من قبل الاداة. رابط واحد كل سطر, الروابط الغير صحيحه سوف يتم تجاهلها.",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"استيراد",

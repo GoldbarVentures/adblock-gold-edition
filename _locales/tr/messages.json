@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"Sonunda, tarayıcılar için verimli bir reklam engelleyici. CPU ve RAM'i fazla yormaz.",
+    "message":"Ünlü Adblock uzantısı Alternatif, hafif almak",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock — Kontrol paneli",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition — Kontrol paneli",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"Ayarlar",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Ağ istek günlüğü",
+    "message":"AdBlock Gold Edition — Ağ istek günlüğü",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"Tıklama: superNanoBlock'u bu site için kalıcı olarak devre dışı bırak\/etkinleştir.\n\nCtrl+tıklama: superNanoBlock'u sadece bu sayfa için devre dışı bırak.",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "message":"Tıklama: AdBlock Gold Edition'u bu site için kalıcı olarak devre dışı bırak\/etkinleştir.\n\nCtrl+tıklama: AdBlock Gold Edition'u sadece bu sayfa için devre dışı bırak.",
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"istek engellendi",
@@ -212,7 +212,7 @@
     "description":"English: Show the number of blocked requests on the icon"
   },
   "settingsContextMenuPrompt":{
-    "message":"Bağlam menüsüne superNanoBlock'u ekle",
+    "message":"Bağlam menüsüne AdBlock Gold Edition'u ekle",
     "description":"English: Make use of context menu where appropriate"
   },
   "settingsAdvancedUserPrompt":{
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>Bu seçenek <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\"> Adblock Plus-uyumlu &ldquo;öğe gizleme&rdquo; filtrelerinin<\/a> işlenmesini ve uygulanmasını sağlar. Bu filtreler aslında kozmetiktir, bir web sayfasında istek-tabanlı filtreleme motoru tarafından engellenemeyecek olan ve görsel keyif amacıyla sayfadaki öğelerin gizlenmesine yardım eder.<\/p><p>Bu özellik etkinleştirildiğinde, <i>superNanoBlock<\/i>'un bellek ayak izi artar.<\/p>",
+    "message":"<p>Bu seçenek <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\"> Adblock Plus-uyumlu &ldquo;öğe gizleme&rdquo; filtrelerinin<\/a> işlenmesini ve uygulanmasını sağlar. Bu filtreler aslında kozmetiktir, bir web sayfasında istek-tabanlı filtreleme motoru tarafından engellenemeyecek olan ve görsel keyif amacıyla sayfadaki öğelerin gizlenmesine yardım eder.<\/p><p>Bu özellik etkinleştirildiğinde, <i>AdBlock Gold Edition<\/i>'un bellek ayak izi artar.<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"Hangi alan adları için superNanoBlock'un devre dışı olacağını belirten listeniz. Satır başına bir girdi. Geçersiz alan adları sessizce yok sayılır.",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"Hangi alan adları için AdBlock Gold Edition'un devre dışı olacağını belirten listeniz. Satır başına bir girdi. Geçersiz alan adları sessizce yok sayılır.",
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"İçe aktar ve sonuna ekle",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"Bu seçeneği etkinleştirerek isterseniz engellenmiş reklamların detaylarını inceleyebiliriz. Engellenmiş reklamların kaydını tutmak superNanoBlock bellek izini artırır. Birçok kullanıcı bu özelliği kullanmaz, bu yüzden varsayılan olarak devre dışıdır.",
+    "message":"Bu seçeneği etkinleştirerek isterseniz engellenmiş reklamların detaylarını inceleyebiliriz. Engellenmiş reklamların kaydını tutmak AdBlock Gold Edition bellek izini artırır. Birçok kullanıcı bu özelliği kullanmaz, bu yüzden varsayılan olarak devre dışıdır.",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"Tüm ayarlarınız {{time}} tarihinde yedeklenmiş veriler kullanarak değiştirilecek ve superNanoBlock yeniden başlayacak.  Yedeklenmiş verileriniz kullanılarak mevcut tüm ayarlarınız değiştirilsin mi?",
+    "message":"Tüm ayarlarınız {{time}} tarihinde yedeklenmiş veriler kullanarak değiştirilecek ve AdBlock Gold Edition yeniden başlayacak.  Yedeklenmiş verileriniz kullanılarak mevcut tüm ayarlarınız değiştirilsin mi?",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"Tüm ayarlarınızı silinecek, ve superNanoBlock yeniden başlayacak.\n\nsuperNanoBlock fabrika ayarlarına döndürülsün mü?",
+    "message":"Tüm ayarlarınızı silinecek, ve AdBlock Gold Edition yeniden başlayacak.\n\nAdBlock Gold Edition fabrika ayarlarına döndürülsün mü?",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

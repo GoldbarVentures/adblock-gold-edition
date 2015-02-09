@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"Viimein, tehokas mainosten estäjä Chromium selaimille, jolla on alhainen resurssien kulutus.",
+    "message":"Vaihtoehtoinen, kevyempi ottamaan kuuluisan Adblock extention",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock — Hallintapaneeli",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition — Hallintapaneeli",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"Asetukset",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Network request log",
+    "message":"AdBlock Gold Edition — Network request log",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"Painallus: poista käytöstä\/ota käyttöön superNanoBlock tällä sivustolla.\n\nCtrl+painallus: poista superNanoBlock käytöstä vain tällä sivulla.",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "message":"Painallus: poista käytöstä\/ota käyttöön AdBlock Gold Edition tällä sivustolla.\n\nCtrl+painallus: poista AdBlock Gold Edition käytöstä vain tällä sivulla.",
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"pyyntöjä estetty",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>This option enables the parsing and enforcing of <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-compatible &ldquo;element hiding&rdquo; filters<\/a>. These filters are essentially cosmetic, they serve to hide elements in a web page which are deemed to be a visual nuisance, and which can't be blocked by the net request-based filtering engine.<\/p><p>Enabling this feature increases <i>superNanoBlock<\/i>'s memory footprint.<\/p>",
+    "message":"<p>This option enables the parsing and enforcing of <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-compatible &ldquo;element hiding&rdquo; filters<\/a>. These filters are essentially cosmetic, they serve to hide elements in a web page which are deemed to be a visual nuisance, and which can't be blocked by the net request-based filtering engine.<\/p><p>Enabling this feature increases <i>AdBlock Gold Edition<\/i>'s memory footprint.<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"Oma listasi osoitteista, joissa superNanoBlock on pois päältä. Kirjoita yksi osoite kullekin riville. Epäkelvot osoitteet ohitetaan ilman ilmoitusta.",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"Oma listasi osoitteista, joissa AdBlock Gold Edition on pois päältä. Kirjoita yksi osoite kullekin riville. Epäkelvot osoitteet ohitetaan ilman ilmoitusta.",
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"Tuo ja lisää",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"Laittamalla tämän asetuksen päälle, voit tarkkailla verkkoon tehtäviä pyyntöjä. Tämä nostaa superNanoBlockin muistinkulutusta. Monet käyttäjät eivät koskaan tule käyttämään tätä ominaisuutta, joten se on oletuksena pois päältä.",
+    "message":"Laittamalla tämän asetuksen päälle, voit tarkkailla verkkoon tehtäviä pyyntöjä. Tämä nostaa AdBlock Gold Editionin muistinkulutusta. Monet käyttäjät eivät koskaan tule käyttämään tätä ominaisuutta, joten se on oletuksena pois päältä.",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"All your settings will be overwritten using data backed up on {{time}}, and superNanoBlock will restart.\n\nOverwrite all existing settings using backed up data?",
+    "message":"All your settings will be overwritten using data backed up on {{time}}, and AdBlock Gold Edition will restart.\n\nOverwrite all existing settings using backed up data?",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"Kaikki tallennetut asetuksesi poistetaan ja superNanoBlock käynnistyy uudelleen. \n\nPalauta oletusasetukset?",
+    "message":"Kaikki tallennetut asetuksesi poistetaan ja AdBlock Gold Edition käynnistyy uudelleen. \n\nPalauta oletusasetukset?",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

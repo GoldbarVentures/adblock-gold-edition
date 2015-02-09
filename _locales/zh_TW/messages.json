@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"一款基於Chromium瀏覽器的高效率廣告封鎖工具，只需要超低的CPU與記憶體使用量。",
+    "message":"替代，對眾所周知的添加劑精簡版的版本adBlok",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock 控制台",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition 控制台",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"設定",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Network request log",
+    "message":"AdBlock Gold Edition — Network request log",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"點選: superNanoBlock 對此網站 停用\/啟用。Ctrl + 按一下：僅在此頁面停用superNanoBlock。",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "message":"點選: AdBlock Gold Edition 對此網站 停用\/啟用。Ctrl + 按一下：僅在此頁面停用AdBlock Gold Edition。",
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"已封鎖廣告",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>這項選項啟用了對<a href=\"https:\/\/adblockplus.org\/zh_TW\/faq_internal#elemhide\">Adblock Plus相相容的“元素隱藏”過濾規則<\/a>。這些過濾規則本質上只是裝飾，它們被用於隱藏一個網頁上被認為礙眼的元素，並且這些元素不能被矩陣過濾或ABP過濾引擎所隱藏。<\/p><p>啟用這項功能將增加<i>superNanoBlock<\/i>的記憶體使用量。<\/p>",
+    "message":"<p>這項選項啟用了對<a href=\"https:\/\/adblockplus.org\/zh_TW\/faq_internal#elemhide\">Adblock Plus相相容的“元素隱藏”過濾規則<\/a>。這些過濾規則本質上只是裝飾，它們被用於隱藏一個網頁上被認為礙眼的元素，並且這些元素不能被矩陣過濾或ABP過濾引擎所隱藏。<\/p><p>啟用這項功能將增加<i>AdBlock Gold Edition<\/i>的記憶體使用量。<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"列表裡的主機名稱將被 superNanoBlock 停用。每行一個規則。無效的主機名稱將被忽略掉。",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"列表裡的主機名稱將被 AdBlock Gold Edition 停用。每行一個規則。無效的主機名稱將被忽略掉。",
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"導入並附加規則",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"開啟此選項，將可以查看網路請求的詳細資訊。這個功能會增加superNanoBlock的記憶體使用量。由於多數使用者不需要此功能，它預設是停用的。",
+    "message":"開啟此選項，將可以查看網路請求的詳細資訊。這個功能會增加AdBlock Gold Edition的記憶體使用量。由於多數使用者不需要此功能，它預設是停用的。",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"所有設定將被備份資料覆蓋在， superNanoBlock 將重新啟動。\n確定用備份的資料覆蓋現有的設定嗎？",
+    "message":"所有設定將被備份資料覆蓋在， AdBlock Gold Edition 將重新啟動。\n確定用備份的資料覆蓋現有的設定嗎？",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"您的設定將被清除，superNanoBlock 將重新啟動。\n確定將 superNanoBlock 重設？",
+    "message":"您的設定將被清除，AdBlock Gold Edition 將重新啟動。\n確定將 AdBlock Gold Edition 重設？",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

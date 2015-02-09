@@ -1,15 +1,15 @@
 {
   "extName":{
-    "message":"superNanoBlock",
+    "message":"AdBlock Gold Edition",
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"一款基于Chromium浏览器的高效广告拦截工具，超低的CPU与内存使用。",
+    "message":"替代，對眾所周知的添加劑精簡版的版本adBlok",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"superNanoBlock  控制面板",
-    "description":"English: superNanoBlock — Dashboard"
+    "message":"AdBlock Gold Edition  控制面板",
+    "description":"English: AdBlock Gold Edition — Dashboard"
   },
   "settingsPageName":{
     "message":"设置",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"superNanoBlock — Network request log",
+    "message":"AdBlock Gold Edition — Network request log",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"点击: superNanoBlock 对此网站 禁用\/启用。Ctrl + 单击：仅在此页面禁用 superNanoBlock。",
-    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+    "message":"点击: AdBlock Gold Edition 对此网站 禁用\/启用。Ctrl + 单击：仅在此页面禁用 AdBlock Gold Edition。",
+    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"已拦截广告",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>这项选项启用了对<a href=\"https:\/\/adblockplus.org\/zh_CN\/faq_internal#elemhide\">Adblock Plus相兼容的“元素隐藏”过滤规则<\/a>。这些过滤规则本质上只是装饰，它们被用于隐藏一个网页上被认为碍眼的元素，并且这些元素不能被矩阵过滤或ABP过滤引擎所屏蔽。<\/p><p>启用这项功能将增加<i>superNanoBlock<\/i>的内存使用量。<\/p>",
+    "message":"<p>这项选项启用了对<a href=\"https:\/\/adblockplus.org\/zh_CN\/faq_internal#elemhide\">Adblock Plus相兼容的“元素隐藏”过滤规则<\/a>。这些过滤规则本质上只是装饰，它们被用于隐藏一个网页上被认为碍眼的元素，并且这些元素不能被矩阵过滤或ABP过滤引擎所屏蔽。<\/p><p>启用这项功能将增加<i>AdBlock Gold Edition<\/i>的内存使用量。<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"列表里的主机名将被 superNanoBlock 禁用。每行一条规则。无效的主机名将被忽略掉。",
-    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"列表里的主机名将被 AdBlock Gold Edition 禁用。每行一条规则。无效的主机名将被忽略掉。",
+    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"导入并附加规则",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"开启此选项，将可以查看网络请求的详细信息。这个功能会增加superNanoBlock的内存使用量。由于多数用户不需要此功能，它默认是禁用的。",
+    "message":"开启此选项，将可以查看网络请求的详细信息。这个功能会增加AdBlock Gold Edition的内存使用量。由于多数用户不需要此功能，它默认是禁用的。",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"所有设置将被备份数据覆盖在， superNanoBlock 将重新启动。\n确定用备份的数据覆盖现有的设置吗？",
+    "message":"所有设置将被备份数据覆盖在， AdBlock Gold Edition 将重新启动。\n确定用备份的数据覆盖现有的设置吗？",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"您的设置将被清除，superNanoBlock 将重新启动。\n确定将 superNanoBlock 重置？",
+    "message":"您的设置将被清除，AdBlock Gold Edition 将重新启动。\n确定将 AdBlock Gold Edition 重置？",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{
