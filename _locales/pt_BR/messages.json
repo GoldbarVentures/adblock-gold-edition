@@ -1,0 +1,478 @@
+{
+  "extName":{
+    "message":"superNanoBlock",
+    "description":"extension name."
+  },
+  "extShortDesc":{
+    "message":"Finalmente, um bloqueador eficaz. Com baixo consumo de CPU e memória.",
+    "description":"this will be in the chrome web store: must be 132 characters or less"
+  },
+  "dashboardName":{
+    "message":"superNanoBlock — Painel",
+    "description":"English: superNanoBlock — Dashboard"
+  },
+  "settingsPageName":{
+    "message":"Preferências",
+    "description":"appears as tab name in dashboard"
+  },
+  "3pPageName":{
+    "message":"Filtros de terceiros",
+    "description":"appears as tab name in dashboard"
+  },
+  "1pPageName":{
+    "message":"Meus filtros",
+    "description":"appears as tab name in dashboard"
+  },
+  "rulesPageName":{
+    "message":"Minhas regras",
+    "description":"appears as tab name in dashboard"
+  },
+  "whitelistPageName":{
+    "message":"Lista Branca",
+    "description":"appears as tab name in dashboard"
+  },
+  "statsPageName":{
+    "message":"superNanoBlock — Registro de solicitações de rede",
+    "description":"Title for the network request log window"
+  },
+  "aboutPageName":{
+    "message":"Sobre",
+    "description":"appears as tab name in dashboard"
+  },
+  "popupPowerSwitchInfo":{
+    "message":"Clique: desativar\/ativar o superNanoBlock para o site atual.\n\nCtrl+Clique: desativar o superNanoBlock apenas nesta página.",
+    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+  },
+  "popupBlockedRequestPrompt":{
+    "message":"solicitações bloqueadas",
+    "description":"English: requests blocked"
+  },
+  "popupBlockedOnThisPagePrompt":{
+    "message":"nesta página",
+    "description":"English: on this page"
+  },
+  "popupBlockedSinceInstallPrompt":{
+    "message":"desde a instalação",
+    "description":"English: since install"
+  },
+  "popupOr":{
+    "message":"ou",
+    "description":"English: or"
+  },
+  "popupTipDashboard":{
+    "message":"Clique para abrir o painel",
+    "description":"English: Click to open the dashboard"
+  },
+  "popupTipPicker":{
+    "message":"Entrar no modo de selecionar elemento",
+    "description":"English: Enter element picker mode"
+  },
+  "popupTipLog":{
+    "message":"Ir para o registro de solicitações",
+    "description":"English: Go to request log"
+  },
+  "popupSiteInlineScriptEnabled":{
+    "message":"Inline <code>script<\/code> tags está <b>permitido<\/b> neste site",
+    "description":""
+  },
+  "popupSiteInlineScriptDisabled":{
+    "message":"Inline <code>script<\/code> tags está <b>bloqueado<\/b> neste site",
+    "description":""
+  },
+  "popupSite1pScriptEnabled":{
+    "message":"1st-party scripts está <b>permitido<\/b> neste site",
+    "description":""
+  },
+  "popupSite1pScriptDisabled":{
+    "message":"1st-party scripts está <b>bloqueado<\/b> neste site",
+    "description":""
+  },
+  "popupSite3pScriptEnabled":{
+    "message":"3rd-party scripts está <b>permitido<\/b> neste site",
+    "description":""
+  },
+  "popupSite3pScriptDisabled":{
+    "message":"3rd-party scripts está <b>bloqueado<\/b> neste site",
+    "description":""
+  },
+  "popupSite1pFrameEnabled":{
+    "message":"1st-party frames está <b>permitido<\/b> neste site",
+    "description":""
+  },
+  "popupSite1pFrameDisabled":{
+    "message":"1st-party frames está <b>bloqueado<\/b> neste site",
+    "description":""
+  },
+  "popupSite3pFrameEnabled":{
+    "message":"3rd-party frames está <b>permitido<\/b> neste site",
+    "description":""
+  },
+  "popupSite3pFrameDisabled":{
+    "message":"3rd-party frames está <b>bloqueado<\/b> neste site",
+    "description":""
+  },
+  "popupDefaultInlineScriptEnabled":{
+    "message":"Inline <code>script<\/code> tags está <b>permitido<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefaultInlineScriptDisabled":{
+    "message":"Inline <code>script<\/code> tags está <b>bloqueado<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault1pScriptEnabled":{
+    "message":"1st-party scripts está <b>permitido<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault1pScriptDisabled":{
+    "message":"1st-party scripts está <b>bloqueado<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault3pScriptEnabled":{
+    "message":"3rd-party scripts está <b>permitido<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault3pScriptDisabled":{
+    "message":"3rd-party scripts está <b>bloqueado<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault1pFrameEnabled":{
+    "message":"1st-party frames está <b>permitido<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault1pFrameDisabled":{
+    "message":"1st-party frames está <b>bloqueado<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault3pFrameEnabled":{
+    "message":"3rd-party frames está <b>permitido<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupDefault3pFrameDisabled":{
+    "message":"3rd-party frames está <b>bloqueado<\/b> em todos os lugares por padrão",
+    "description":""
+  },
+  "popupImageRulePrompt":{
+    "message":"Imagens",
+    "description":""
+  },
+  "popupInlineScriptRulePrompt":{
+    "message":"inline scripts",
+    "description":""
+  },
+  "popup1pScriptRulePrompt":{
+    "message":"1st-party scripts",
+    "description":""
+  },
+  "popup3pScriptRulePrompt":{
+    "message":"3rd-party scripts",
+    "description":""
+  },
+  "popup3pFrameRulePrompt":{
+    "message":"3rd-party frames",
+    "description":""
+  },
+  "popupHitDomainCountPrompt":{
+    "message":"Conectado à {{count}} domínio(s) distinto(s) de {{total}}",
+    "description":"appear in dynamic filtering pane"
+  },
+  "pickerCreate":{
+    "message":"Criar",
+    "description":"English: Create"
+  },
+  "pickerPick":{
+    "message":"Selecionar",
+    "description":"English: Pick"
+  },
+  "pickerQuit":{
+    "message":"Cancelar",
+    "description":"English: Quit"
+  },
+  "pickerNetFilters":{
+    "message":"Filtros de rede",
+    "description":"English: Net filters"
+  },
+  "pickerCosmeticFilters":{
+    "message":"Filtros cosméticos",
+    "description":"English: Cosmetic filters"
+  },
+  "pickerCosmeticFiltersHint":{
+    "message":"Clique, Ctrl-clique",
+    "description":"English: Click, Ctrl-click"
+  },
+  "pickerContextMenuEntry":{
+    "message":"Bloquear elemento",
+    "description":"English: Block element"
+  },
+  "settingsCollapseBlockedPrompt":{
+    "message":"Ocultar os espaços ocupados por elementos bloqueados",
+    "description":"English: Hide placeholders of blocked elements"
+  },
+  "settingsIconBadgePrompt":{
+    "message":"Mostrar o número de solicitações bloqueadas no ícone",
+    "description":"English: Show the number of blocked requests on the icon"
+  },
+  "settingsContextMenuPrompt":{
+    "message":"Fazer o uso do menu de contexto onde apropriado",
+    "description":"English: Make use of context menu where appropriate"
+  },
+  "settingsAdvancedUserPrompt":{
+    "message":"Eu sou um usuário avançado  (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Advanced-user-features'>Leitura necessária<\/a>)",
+    "description":"English: "
+  },
+  "settingsExperimentalPrompt":{
+    "message":"Ativar recursos experimentais (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Experimental-features'>Sobre<\/a>)",
+    "description":"English: Enable experimental features"
+  },
+  "3pListsOfBlockedHostsPrompt":{
+    "message":"{{netFilterCount}} filtros de rede + {{cosmeticFilterCount}} filtros cosméticos de:",
+    "description":"English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:"
+  },
+  "3pListsOfBlockedHostsPerListStats":{
+    "message":"{{used}} usado(s) de {{total}}",
+    "description":"English: {{used}} used out of {{total}}"
+  },
+  "3pAutoUpdatePrompt1":{
+    "message":"Atualizar automaticamente as listas de filtros.",
+    "description":"English: Auto-update filter lists."
+  },
+  "3pUpdateNow":{
+    "message":"Atualizar agora",
+    "description":"English: Update now"
+  },
+  "3pPurgeAll":{
+    "message":"Limpar todos os caches",
+    "description":"English: Purge all caches"
+  },
+  "3pParseAllABPHideFiltersPrompt1":{
+    "message":"Analisar e aplicar filtros cosméticos.",
+    "description":"English: Parse and enforce Adblock+ element hiding filters."
+  },
+  "3pParseAllABPHideFiltersInfo":{
+    "message":"<p>Esta opção permite a análise e aplicação de <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\"> filtros de \"esconder elementos\" compatível com Adblock Plus<\/a>. Estes filtros são essencialmente cosméticos, eles servem para ocultar elementos em uma página da web que são consideradas um incômodo visual, e que não pode ser bloqueado pelo motor de filtragem com base em pedidos de rede.<\/p><p>Ativando este recurso aumenta o consumo de memória do <i>superNanoBlock<\/i>.<\/p>",
+    "description":"English: see English messages.json"
+  },
+  "3pListsOfBlockedHostsHeader":{
+    "message":"Listas de hosts bloqueados",
+    "description":"English: Lists of blocked hosts"
+  },
+  "3pApplyChanges":{
+    "message":"Aplicar alterações",
+    "description":"English: Apply changes"
+  },
+  "3pGroupAds":{
+    "message":"Anúncios",
+    "description":"English: Ads"
+  },
+  "3pGroupPrivacy":{
+    "message":"Privacidade",
+    "description":"English: Privacy"
+  },
+  "3pGroupMalware":{
+    "message":"Domínios de malware",
+    "description":"English: Malware domains"
+  },
+  "3pGroupSocial":{
+    "message":"Social",
+    "description":"English: Social"
+  },
+  "3pGroupMultipurpose":{
+    "message":"Multiuso",
+    "description":"English: Multipurpose"
+  },
+  "3pGroupRegions":{
+    "message":"Regiões, idiomas",
+    "description":"English: Regions, languages"
+  },
+  "3pGroupCustom":{
+    "message":"Lista personalizada",
+    "description":"English: Custom"
+  },
+  "3pExternalListsHint":{
+    "message":"Uma URL por linha. Linhas prefixadas com &lsquo;!&rsquo; serão ignoradas. URLs inválidas serão silenciosamente ignoradas.",
+    "description":"English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored."
+  },
+  "3pExternalListsApply":{
+    "message":"Analisar e aplicar",
+    "description":"English: Parse"
+  },
+  "3pExternalListPurge":{
+    "message":"limpar cache",
+    "description":"English: purge cache"
+  },
+  "3pExternalListNew":{
+    "message":"nova versão disponível",
+    "description":"English: new version available"
+  },
+  "3pExternalListObsolete":{
+    "message":"desatualizada",
+    "description":"English: outdated"
+  },
+  "1pFormatHint":{
+    "message":"Adicione um filtro por linha. Um filtro pode ser um simples hostname ou um filtro compatível com o Adblock Plus. Linhas prefixadas com &lsquo;!&rsquo; serão ignoradas.",
+    "description":"English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored."
+  },
+  "1pImport":{
+    "message":"Importar e adicionar",
+    "description":"English: Import and append"
+  },
+  "1pExport":{
+    "message":"Exportar",
+    "description":"English: Export"
+  },
+  "1pExportFilename":{
+    "message":"meus-filtros-estáticos-do-ublock_{{datetime}}.txt",
+    "description":"English: my-ublock-static-filters_{{datetime}}.txt"
+  },
+  "1pApplyChanges":{
+    "message":"Aplicar alterações",
+    "description":"English: Apply changes"
+  },
+  "rulesEdit":{
+    "message":"Editar",
+    "description":"Will enable manual-edit mode (textarea)"
+  },
+  "rulesEditSave":{
+    "message":"Salvar",
+    "description":"Will save manually-edited content and exit manual-edit mode"
+  },
+  "rulesEditDiscard":{
+    "message":"Descartar",
+    "description":"Will discard manually-edited content and exit manual-edit mode"
+  },
+  "rulesImport":{
+    "message":"Importar de um arquivo...",
+    "description":""
+  },
+  "rulesExport":{
+    "message":"Exportar para um arquivo...",
+    "description":""
+  },
+  "rulesDefaultFileName":{
+    "message":"minhas-regras-dinâmicas-do-ublock.txt",
+    "description":"default file name to use"
+  },
+  "rulesHint":{
+    "message":"Lista de suas regras de filtragem dinâmica.",
+    "description":"English: List of your dynamic filtering rules."
+  },
+  "rulesFormatHint":{
+    "message":"Regras de Sintaxe: <code>Ação de tipo origem destino<\/code> (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Dynamic-filtering:-rule-syntax'>documentação completa<\/a>).",
+    "description":"English: dynamic rule syntax and full documentation."
+  },
+  "whitelistPrompt":{
+    "message":"Sua lista de exceções de nomes de host para qual o superNanoBlock será desativado. Uma entrada por linha. hostnames inválidos serão silenciosamente ignorados.",
+    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+  },
+  "whitelistImport":{
+    "message":"Importar e adicionar",
+    "description":"English: Import and append"
+  },
+  "whitelistExport":{
+    "message":"Exportar",
+    "description":"English: Export"
+  },
+  "whitelistExportFilename":{
+    "message":"minha-listabranca-ublock_{{datetime}}.txt",
+    "description":"English: my-ublock-whitelist_{{datetime}}.txt"
+  },
+  "whitelistApply":{
+    "message":"Aplicar alterações",
+    "description":"English: Apply changes"
+  },
+  "logNetRequestsPrompt":{
+    "message":"Ativar o registro de solicitações de rede",
+    "description":"English: Enable the logging of network requests"
+  },
+  "logNetRequestsHelp":{
+    "message":"Ativando essa opção você pode inspecionar os detalhes das solicitações de rede. O registro de solicitações de rede aumenta o consumo de memória do superNanoBlock. Uma vez que muitos usuários pararem de usar esse recurso ele será desativado por padrão.",
+    "description":"English: see _locales\/en\/messages.log"
+  },
+  "logBlockedRequestsHeader":{
+    "message":"Solicitações bloqueadas",
+    "description":"English: Blocked requests"
+  },
+  "logAllowedRequestsHeader":{
+    "message":"Solicitações permitidas",
+    "description":"English: Allowed requests"
+  },
+  "logRequestsHeaderType":{
+    "message":"Tipo",
+    "description":"English: Type"
+  },
+  "logRequestsHeaderDomain":{
+    "message":"Domínio",
+    "description":"English: Domain"
+  },
+  "logRequestsHeaderURL":{
+    "message":"URL",
+    "description":"English: URL"
+  },
+  "logRequestsHeaderFilter":{
+    "message":"Filtro",
+    "description":"English: Filter"
+  },
+  "logBlockedRequestsEmpty":{
+    "message":"Não há solicitações bloqueadas registrados para essa página",
+    "description":"English: No blocked requests logged for this page"
+  },
+  "logAllowedRequestsEmpty":{
+    "message":"Não há solicitações não-bloqueadas registrados para esta página",
+    "description":"English: No non-blocked requests logged for this page"
+  },
+  "logBehindTheScene":{
+    "message":"Por trás da cena",
+    "description":"Pretty name for behind-the-scene network requests"
+  },
+  "aboutChangelog":{
+    "message":"Registro de alterações",
+    "description":"English: Change log"
+  },
+  "aboutWiki":{
+    "message":"Wiki",
+    "description":"English: project' wiki on Github"
+  },
+  "aboutCode":{
+    "message":"Código-fonte (GPLv3)",
+    "description":"English: Source code (GPLv3)"
+  },
+  "aboutContributors":{
+    "message":"Contribuidores",
+    "description":"English: Contributors"
+  },
+  "aboutBackupDataButton":{
+    "message":"Backup do arquivo",
+    "description":"English: Backup to file"
+  },
+  "aboutBackupFilename":{
+    "message":"meu-ublock-backup_{{datetime}}.txt",
+    "description":"English: my-ublock-backup_{{datetime}}.txt"
+  },
+  "aboutRestoreDataButton":{
+    "message":"Restaurar do arquivo...",
+    "description":"English: Restore from file..."
+  },
+  "aboutResetDataButton":{
+    "message":"Restaurar as configurações padrão...",
+    "description":"English: Reset to default settings..."
+  },
+  "aboutRestoreDataConfirm":{
+    "message":"Todas as suas configurações serão substituídas pelos dados do backup salvo em {{time}}, e o superNanoBlock será reiniciado. \n\nDeseja substituir todas as configurações existentes usando os dados do backup?",
+    "description":"Message asking user to confirm restore"
+  },
+  "aboutRestoreDataError":{
+    "message":"Os dados não podem ser lidos ou são inválidos",
+    "description":"Message to display when an error occurred during restore"
+  },
+  "aboutResetDataConfirm":{
+    "message":"Todas as suas configurações serão apagadas, e o superNanoBlock será reiniciado. \n\nDeseja redefinir as configurações de fábrica do superNanoBlock?",
+    "description":"Message asking user to confirm reset"
+  },
+  "errorCantConnectTo":{
+    "message":"Não foi possível conectar à {{url}}",
+    "description":"English: Network error: unable to connect to {{url}}"
+  },
+  "dummy":{
+    "message":"Esta entrada deve ser a última",
+    "description":"so we dont need to deal with comma for last entry"
+  }
+}

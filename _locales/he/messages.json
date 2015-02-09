@@ -1,0 +1,478 @@
+{
+  "extName":{
+    "message":"superNanoBlock",
+    "description":"extension name."
+  },
+  "extShortDesc":{
+    "message":"סוף סוף, חוסם יעיל. קל על המעבד והזיכרון.",
+    "description":"this will be in the chrome web store: must be 132 characters or less"
+  },
+  "dashboardName":{
+    "message":"superNanoBlock — פאנל הקונפיגורציות",
+    "description":"English: superNanoBlock — Dashboard"
+  },
+  "settingsPageName":{
+    "message":"הגדרות",
+    "description":"appears as tab name in dashboard"
+  },
+  "3pPageName":{
+    "message":"מסננים צד-3",
+    "description":"appears as tab name in dashboard"
+  },
+  "1pPageName":{
+    "message":"המסננים שלי",
+    "description":"appears as tab name in dashboard"
+  },
+  "rulesPageName":{
+    "message":"החוקים שלי",
+    "description":"appears as tab name in dashboard"
+  },
+  "whitelistPageName":{
+    "message":"רשימה לבנה",
+    "description":"appears as tab name in dashboard"
+  },
+  "statsPageName":{
+    "message":"superNanoBlock — מתעד בקשות רשת",
+    "description":"Title for the network request log window"
+  },
+  "aboutPageName":{
+    "message":"אודות",
+    "description":"appears as tab name in dashboard"
+  },
+  "popupPowerSwitchInfo":{
+    "message":"לחיצה: כבה\/הפעל את superNanoBlock לאתר זה לצמיתות.\n\nCtrl+לחיצה: כבה את superNanoBlock רק בדף זה.",
+    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+  },
+  "popupBlockedRequestPrompt":{
+    "message":"בקשות שנחסמו",
+    "description":"English: requests blocked"
+  },
+  "popupBlockedOnThisPagePrompt":{
+    "message":"בדף זה",
+    "description":"English: on this page"
+  },
+  "popupBlockedSinceInstallPrompt":{
+    "message":"מאז ההתקנה",
+    "description":"English: since install"
+  },
+  "popupOr":{
+    "message":"או",
+    "description":"English: or"
+  },
+  "popupTipDashboard":{
+    "message":"לחץ כדי לפתוח את פאנל הקונפיגורציות",
+    "description":"English: Click to open the dashboard"
+  },
+  "popupTipPicker":{
+    "message":"היכנס למצב בחירת אלמנט",
+    "description":"English: Enter element picker mode"
+  },
+  "popupTipLog":{
+    "message":"עבור למתעד הבקשות",
+    "description":"English: Go to request log"
+  },
+  "popupSiteInlineScriptEnabled":{
+    "message":"תגיות <code>script<\/code> מוטמעות <b>מאופשרות<\/b> באתר זה",
+    "description":""
+  },
+  "popupSiteInlineScriptDisabled":{
+    "message":"תגיות <code>script<\/code> מוטמעות <b>חסומות<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite1pScriptEnabled":{
+    "message":"סקריפטים צד-1 <b>מאופשרים<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite1pScriptDisabled":{
+    "message":"סקריפטים צד-1 <b>חסומים<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite3pScriptEnabled":{
+    "message":"סקריפטים צד-3 <b>מאופשרים<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite3pScriptDisabled":{
+    "message":"סקריפטים צד-3 <b>חסומים<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite1pFrameEnabled":{
+    "message":"מסגרות צד-1 <b>מאופשרות<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite1pFrameDisabled":{
+    "message":"מסגרות צד-1 <b>חסומות<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite3pFrameEnabled":{
+    "message":"מסגרות צד-3 <b>מאופשרות<\/b> באתר זה",
+    "description":""
+  },
+  "popupSite3pFrameDisabled":{
+    "message":"מסגרות צד-3 <b>חסומות<\/b> באתר זה",
+    "description":""
+  },
+  "popupDefaultInlineScriptEnabled":{
+    "message":"תגיות <code>script<\/code> מוטמעות <b>מאופשרות<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefaultInlineScriptDisabled":{
+    "message":"תגיות <code>script<\/code> מוטמעות <b>חסומות<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault1pScriptEnabled":{
+    "message":"סקריפטים צד-1 <b>מאופשרים<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault1pScriptDisabled":{
+    "message":"סקריפטים צד-1 <b>חסומים<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault3pScriptEnabled":{
+    "message":"סקריפטים צד-3 <b>מאופשרים<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault3pScriptDisabled":{
+    "message":"סקריפטים צד-3 <b>חסומים<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault1pFrameEnabled":{
+    "message":"מסגרות צד-1 <b>מאופשרות<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault1pFrameDisabled":{
+    "message":"מסגרות צד-1 <b>חסומות<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault3pFrameEnabled":{
+    "message":"מסגרות צד-3 <b>מאופשרות<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupDefault3pFrameDisabled":{
+    "message":"מסגרות צד-3 <b>חסומות<\/b> בכל מקום כברירת מחדל",
+    "description":""
+  },
+  "popupImageRulePrompt":{
+    "message":"תמונות",
+    "description":""
+  },
+  "popupInlineScriptRulePrompt":{
+    "message":"סקריפטים מוטמעים",
+    "description":""
+  },
+  "popup1pScriptRulePrompt":{
+    "message":"סקריפטים צד-1",
+    "description":""
+  },
+  "popup3pScriptRulePrompt":{
+    "message":"סקריפטים צד-3",
+    "description":""
+  },
+  "popup3pFrameRulePrompt":{
+    "message":"מסגרות צד-3",
+    "description":""
+  },
+  "popupHitDomainCountPrompt":{
+    "message":"מחובר ל {{count}} דומיין\/ים שונה\/ים מתוך {{total}}",
+    "description":"appear in dynamic filtering pane"
+  },
+  "pickerCreate":{
+    "message":"צור",
+    "description":"English: Create"
+  },
+  "pickerPick":{
+    "message":"בחר",
+    "description":"English: Pick"
+  },
+  "pickerQuit":{
+    "message":"צא",
+    "description":"English: Quit"
+  },
+  "pickerNetFilters":{
+    "message":"מסנני רשת",
+    "description":"English: Net filters"
+  },
+  "pickerCosmeticFilters":{
+    "message":"מסננים קוסמטיים",
+    "description":"English: Cosmetic filters"
+  },
+  "pickerCosmeticFiltersHint":{
+    "message":"לחיצה, Ctrl+לחיצה",
+    "description":"English: Click, Ctrl-click"
+  },
+  "pickerContextMenuEntry":{
+    "message":"חסום אלמנט",
+    "description":"English: Block element"
+  },
+  "settingsCollapseBlockedPrompt":{
+    "message":"הסתר את המקום שנשאר מחסימה של אלמנטים",
+    "description":"English: Hide placeholders of blocked elements"
+  },
+  "settingsIconBadgePrompt":{
+    "message":"הראה את מספר הבקשות החסומות על האייקון",
+    "description":"English: Show the number of blocked requests on the icon"
+  },
+  "settingsContextMenuPrompt":{
+    "message":"הצגת הפריט 'חסום אלמנט' בתפריט הלחצן הימני איפה שאפשר",
+    "description":"English: Make use of context menu where appropriate"
+  },
+  "settingsAdvancedUserPrompt":{
+    "message":"אני משתמש מתקדם (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Advanced-user-features'>נדרש לקרוא<\/a>)",
+    "description":"English: "
+  },
+  "settingsExperimentalPrompt":{
+    "message":"אפשר תכונות ניסיוניות (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Experimental-features'>אודות<\/a>)",
+    "description":"English: Enable experimental features"
+  },
+  "3pListsOfBlockedHostsPrompt":{
+    "message":"{{netFilterCount}} מסנני רשת + {{cosmeticFilterCount}} מסננים קוסמטיים מתוך:",
+    "description":"English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:"
+  },
+  "3pListsOfBlockedHostsPerListStats":{
+    "message":"{{used}} בשימוש מתוך {{total}}",
+    "description":"English: {{used}} used out of {{total}}"
+  },
+  "3pAutoUpdatePrompt1":{
+    "message":"עדכן אוטומטית את רשימות המסננים.",
+    "description":"English: Auto-update filter lists."
+  },
+  "3pUpdateNow":{
+    "message":"עדכן כעת",
+    "description":"English: Update now"
+  },
+  "3pPurgeAll":{
+    "message":"נקה את כל זיכרוני המטמון",
+    "description":"English: Purge all caches"
+  },
+  "3pParseAllABPHideFiltersPrompt1":{
+    "message":"פרסר ואפשר מסננים קוסמטיים.",
+    "description":"English: Parse and enforce Adblock+ element hiding filters."
+  },
+  "3pParseAllABPHideFiltersInfo":{
+    "message":"<p>אפשרות זו מאפשרת פירסור ואיפשור של <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">מסנני &ldquo;ההסתרת האלמנטים&rdquo; התואמים ל Adblock Plus<\/a>. מסננים אלו הם קוסמטיים, הם נועדו להסתיר אלמנטים בדף אשר נחשבים למטרד חזותי, ואשר לא יכולים להיחסם על ידי מנוע חסימת בקשות רשת.<\/p><p>הפעלת פיצ'ר זה מעלה את צריכת הזיכרון של <i>superNanoBlock<\/i><\/p>",
+    "description":"English: see English messages.json"
+  },
+  "3pListsOfBlockedHostsHeader":{
+    "message":"רשימה של דומיינים חסומים",
+    "description":"English: Lists of blocked hosts"
+  },
+  "3pApplyChanges":{
+    "message":"החל שינויים",
+    "description":"English: Apply changes"
+  },
+  "3pGroupAds":{
+    "message":"פרסומות",
+    "description":"English: Ads"
+  },
+  "3pGroupPrivacy":{
+    "message":"פרטיות",
+    "description":"English: Privacy"
+  },
+  "3pGroupMalware":{
+    "message":"דומיינים של תוכנות זדוניות",
+    "description":"English: Malware domains"
+  },
+  "3pGroupSocial":{
+    "message":"חברתי",
+    "description":"English: Social"
+  },
+  "3pGroupMultipurpose":{
+    "message":"רב תכליתי",
+    "description":"English: Multipurpose"
+  },
+  "3pGroupRegions":{
+    "message":"אזורים, שפות",
+    "description":"English: Regions, languages"
+  },
+  "3pGroupCustom":{
+    "message":"מותאם אישית",
+    "description":"English: Custom"
+  },
+  "3pExternalListsHint":{
+    "message":"כתובת אחת בכל שורה. שורות עם קידומת &lsquo;!&rsquo; לא יפורשו. כתובות לא חוקיות לא יפורשו ולא תהיה התראה לכך.",
+    "description":"English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored."
+  },
+  "3pExternalListsApply":{
+    "message":"החל",
+    "description":"English: Parse"
+  },
+  "3pExternalListPurge":{
+    "message":"נקה זיכרון מטמון",
+    "description":"English: purge cache"
+  },
+  "3pExternalListNew":{
+    "message":"גרסה חדשה זמינה",
+    "description":"English: new version available"
+  },
+  "3pExternalListObsolete":{
+    "message":"לא עדכני",
+    "description":"English: outdated"
+  },
+  "1pFormatHint":{
+    "message":"מסנן אחד לכל שורה. המסנן יכול להיות דומיין פשוט, או מסנן המותאם ל- Adblock Plus. שורות עם קידומת &lsquo;!&rsquo; לא יפורשו.",
+    "description":"English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored."
+  },
+  "1pImport":{
+    "message":"ייבא וצרף",
+    "description":"English: Import and append"
+  },
+  "1pExport":{
+    "message":"ייצוא",
+    "description":"English: Export"
+  },
+  "1pExportFilename":{
+    "message":"my-ublock-static-filters_{{datetime}}.txt",
+    "description":"English: my-ublock-static-filters_{{datetime}}.txt"
+  },
+  "1pApplyChanges":{
+    "message":"החל שינויים",
+    "description":"English: Apply changes"
+  },
+  "rulesEdit":{
+    "message":"ערוך",
+    "description":"Will enable manual-edit mode (textarea)"
+  },
+  "rulesEditSave":{
+    "message":"שמור",
+    "description":"Will save manually-edited content and exit manual-edit mode"
+  },
+  "rulesEditDiscard":{
+    "message":"בטל",
+    "description":"Will discard manually-edited content and exit manual-edit mode"
+  },
+  "rulesImport":{
+    "message":"ייבא מקובץ...",
+    "description":""
+  },
+  "rulesExport":{
+    "message":"ייצא לקובץ...",
+    "description":""
+  },
+  "rulesDefaultFileName":{
+    "message":"my-ublock-dynamic-rules_{{datetime}}.txt",
+    "description":"default file name to use"
+  },
+  "rulesHint":{
+    "message":"רשימת חוקי המסננים הדינאמיים שלך.",
+    "description":"English: List of your dynamic filtering rules."
+  },
+  "rulesFormatHint":{
+    "message":"סינטקס חוק: <code>פעולה סוג יעד מקור<\/code> (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Dynamic-filtering:-rule-syntax'>תיעוד מלא<\/a>).",
+    "description":"English: dynamic rule syntax and full documentation."
+  },
+  "whitelistPrompt":{
+    "message":"רשימת שמות המתחם שלך בהם superNanoBlock לא יהיה פעיל. רשומה אחת בכל שורה. שמות מתחם לא חוקיים לא יפורשו ולא תהיה התראה לכך.",
+    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+  },
+  "whitelistImport":{
+    "message":"ייבא וצרף",
+    "description":"English: Import and append"
+  },
+  "whitelistExport":{
+    "message":"ייצוא",
+    "description":"English: Export"
+  },
+  "whitelistExportFilename":{
+    "message":"my-ublock-whitelist_{{datetime}}.txt",
+    "description":"English: my-ublock-whitelist_{{datetime}}.txt"
+  },
+  "whitelistApply":{
+    "message":"החל שינויים",
+    "description":"English: Apply changes"
+  },
+  "logNetRequestsPrompt":{
+    "message":"אפשר תיעוד של בקשות רשת",
+    "description":"English: Enable the logging of network requests"
+  },
+  "logNetRequestsHelp":{
+    "message":"באפשרותך לבדוק את הפרטים של בקשות רשת אם תרצה על-ידי איפשור אפשרות זו. התיעוד של בקשות רשת מעלה את השימוש בזיכרון של superNanoBlock. מכיוון שמשתמשים רבים לעולם לא ישתמשו באפשרות זו, היא מכובה בברירת מחדל.",
+    "description":"English: see _locales\/en\/messages.log"
+  },
+  "logBlockedRequestsHeader":{
+    "message":"בקשות חסומות",
+    "description":"English: Blocked requests"
+  },
+  "logAllowedRequestsHeader":{
+    "message":"בקשות מאופשרות",
+    "description":"English: Allowed requests"
+  },
+  "logRequestsHeaderType":{
+    "message":"סוג",
+    "description":"English: Type"
+  },
+  "logRequestsHeaderDomain":{
+    "message":"דומיין",
+    "description":"English: Domain"
+  },
+  "logRequestsHeaderURL":{
+    "message":"כתובת",
+    "description":"English: URL"
+  },
+  "logRequestsHeaderFilter":{
+    "message":"מסנן",
+    "description":"English: Filter"
+  },
+  "logBlockedRequestsEmpty":{
+    "message":"אין בקשות חסומות שתועדו עבור דף זה",
+    "description":"English: No blocked requests logged for this page"
+  },
+  "logAllowedRequestsEmpty":{
+    "message":"אין בקשות לא חסומות שתועדו עבור דף זה",
+    "description":"English: No non-blocked requests logged for this page"
+  },
+  "logBehindTheScene":{
+    "message":"מאחורי הקלעים",
+    "description":"Pretty name for behind-the-scene network requests"
+  },
+  "aboutChangelog":{
+    "message":"רשימת שינויים",
+    "description":"English: Change log"
+  },
+  "aboutWiki":{
+    "message":"ויקי",
+    "description":"English: project' wiki on Github"
+  },
+  "aboutCode":{
+    "message":"קוד מקור (GPLv3)",
+    "description":"English: Source code (GPLv3)"
+  },
+  "aboutContributors":{
+    "message":"תורמים",
+    "description":"English: Contributors"
+  },
+  "aboutBackupDataButton":{
+    "message":"גבה לקובץ",
+    "description":"English: Backup to file"
+  },
+  "aboutBackupFilename":{
+    "message":"my-ublock-backup_{{datetime}}.txt",
+    "description":"English: my-ublock-backup_{{datetime}}.txt"
+  },
+  "aboutRestoreDataButton":{
+    "message":"שחזר מקובץ...",
+    "description":"English: Restore from file..."
+  },
+  "aboutResetDataButton":{
+    "message":"אפס להגדרות ברירת מחדל...",
+    "description":"English: Reset to default settings..."
+  },
+  "aboutRestoreDataConfirm":{
+    "message":"כל ההגדרות שלך יוחלפו בנתונים שגובו ב {{time}}, ו superNanoBlock יופעל מחדש.\n\nהאם להחליף את כל ההגדרות הקיימות בנתונים המגובים?",
+    "description":"Message asking user to confirm restore"
+  },
+  "aboutRestoreDataError":{
+    "message":"לא הוצלח לקרוא את המידע או שהוא פגום",
+    "description":"Message to display when an error occurred during restore"
+  },
+  "aboutResetDataConfirm":{
+    "message":"כל ההגדרות שלך יימחקו, ו superNanoBlock יופעל מחדש.\n\nלאפס את superNanoBlock להגדרות ברירת מחדל?",
+    "description":"Message asking user to confirm reset"
+  },
+  "errorCantConnectTo":{
+    "message":"אין אפשרות להתחבר ל {{url}}",
+    "description":"English: Network error: unable to connect to {{url}}"
+  },
+  "dummy":{
+    "message":"ערך זה חייב להיות האחרון",
+    "description":"so we dont need to deal with comma for last entry"
+  }
+}

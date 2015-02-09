@@ -1,0 +1,478 @@
+{
+  "extName":{
+    "message":"μブロック",
+    "description":"extension name."
+  },
+  "extShortDesc":{
+    "message":"Chromiumベースブラウザー向けの高効率なブロッカーが遂に登場。CPUとメモリーの負担を抑えます。",
+    "description":"this will be in the chrome web store: must be 132 characters or less"
+  },
+  "dashboardName":{
+    "message":"superNanoBlock — ダッシュボード",
+    "description":"English: superNanoBlock — Dashboard"
+  },
+  "settingsPageName":{
+    "message":" 設定",
+    "description":"appears as tab name in dashboard"
+  },
+  "3pPageName":{
+    "message":"第三者製フィルター",
+    "description":"appears as tab name in dashboard"
+  },
+  "1pPageName":{
+    "message":"Myフィルター",
+    "description":"appears as tab name in dashboard"
+  },
+  "rulesPageName":{
+    "message":"Myルール",
+    "description":"appears as tab name in dashboard"
+  },
+  "whitelistPageName":{
+    "message":"ホワイトリスト",
+    "description":"appears as tab name in dashboard"
+  },
+  "statsPageName":{
+    "message":"superNanoBlock — Network request log",
+    "description":"Title for the network request log window"
+  },
+  "aboutPageName":{
+    "message":"このプロジェクトについて",
+    "description":"appears as tab name in dashboard"
+  },
+  "popupPowerSwitchInfo":{
+    "message":"このボタンを押して<br>今のサイトだけに<br>エクステンションを完全にオンかオフにする",
+    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+  },
+  "popupBlockedRequestPrompt":{
+    "message":"リクエストはブロックされました",
+    "description":"English: requests blocked"
+  },
+  "popupBlockedOnThisPagePrompt":{
+    "message":"このページ",
+    "description":"English: on this page"
+  },
+  "popupBlockedSinceInstallPrompt":{
+    "message":"インストール以来",
+    "description":"English: since install"
+  },
+  "popupOr":{
+    "message":"又は",
+    "description":"English: or"
+  },
+  "popupTipDashboard":{
+    "message":"クリックしてダッシュボードを開く",
+    "description":"English: Click to open the dashboard"
+  },
+  "popupTipPicker":{
+    "message":"要素選択モードに移行",
+    "description":"English: Enter element picker mode"
+  },
+  "popupTipLog":{
+    "message":"リクエストログへ移動",
+    "description":"English: Go to request log"
+  },
+  "popupSiteInlineScriptEnabled":{
+    "message":"Inline <code>script<\/code> tags are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSiteInlineScriptDisabled":{
+    "message":"Inline <code>script<\/code> tags are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pScriptEnabled":{
+    "message":"1st-party scripts are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pScriptDisabled":{
+    "message":"1st-party scripts are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pScriptEnabled":{
+    "message":"3rd-party scripts are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pScriptDisabled":{
+    "message":"3rd-party scripts are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pFrameEnabled":{
+    "message":"1st-party frames are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pFrameDisabled":{
+    "message":"1st-party frames are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pFrameEnabled":{
+    "message":"3rd-party frames are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pFrameDisabled":{
+    "message":"3rd-party frames are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupDefaultInlineScriptEnabled":{
+    "message":"Inline <code>script<\/code> tags are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefaultInlineScriptDisabled":{
+    "message":"Inline <code>script<\/code> tags are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pScriptEnabled":{
+    "message":"1st-party scripts are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pScriptDisabled":{
+    "message":"1st-party scripts are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pScriptEnabled":{
+    "message":"3rd-party scripts are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pScriptDisabled":{
+    "message":"3rd-party scripts are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pFrameEnabled":{
+    "message":"1st-party frames are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pFrameDisabled":{
+    "message":"1st-party frames are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pFrameEnabled":{
+    "message":"3rd-party frames are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pFrameDisabled":{
+    "message":"3rd-party frames are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupImageRulePrompt":{
+    "message":"images",
+    "description":""
+  },
+  "popupInlineScriptRulePrompt":{
+    "message":"inline scripts",
+    "description":""
+  },
+  "popup1pScriptRulePrompt":{
+    "message":"1st-party scripts",
+    "description":""
+  },
+  "popup3pScriptRulePrompt":{
+    "message":"3rd-party scripts",
+    "description":""
+  },
+  "popup3pFrameRulePrompt":{
+    "message":"3rd-party frames",
+    "description":""
+  },
+  "popupHitDomainCountPrompt":{
+    "message":"Connected to {{count}} distinct domain(s) out of {{total}}",
+    "description":"appear in dynamic filtering pane"
+  },
+  "pickerCreate":{
+    "message":"作成",
+    "description":"English: Create"
+  },
+  "pickerPick":{
+    "message":"選択",
+    "description":"English: Pick"
+  },
+  "pickerQuit":{
+    "message":"終了",
+    "description":"English: Quit"
+  },
+  "pickerNetFilters":{
+    "message":"ネットフィルター",
+    "description":"English: Net filters"
+  },
+  "pickerCosmeticFilters":{
+    "message":"コスメチックフィルタ",
+    "description":"English: Cosmetic filters"
+  },
+  "pickerCosmeticFiltersHint":{
+    "message":"クリック、Ctrl+クリック",
+    "description":"English: Click, Ctrl-click"
+  },
+  "pickerContextMenuEntry":{
+    "message":"要素をブロック",
+    "description":"English: Block element"
+  },
+  "settingsCollapseBlockedPrompt":{
+    "message":"ブロックされた要素の設置場所全てを非表示にする",
+    "description":"English: Hide placeholders of blocked elements"
+  },
+  "settingsIconBadgePrompt":{
+    "message":"ブロックされたリクエスト数をアイコンに表示",
+    "description":"English: Show the number of blocked requests on the icon"
+  },
+  "settingsContextMenuPrompt":{
+    "message":"適切な場合コンテキストメニューを使用",
+    "description":"English: Make use of context menu where appropriate"
+  },
+  "settingsAdvancedUserPrompt":{
+    "message":"I am an advanced user (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Advanced-user-features'>Required reading<\/a>)",
+    "description":"English: "
+  },
+  "settingsExperimentalPrompt":{
+    "message":"実験的な機能を有効にする",
+    "description":"English: Enable experimental features"
+  },
+  "3pListsOfBlockedHostsPrompt":{
+    "message":"{{netFilterCount}}ネットワークフィルタ＋{{cosmeticFilterCount}}コスメチックフィルタ：",
+    "description":"English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:"
+  },
+  "3pListsOfBlockedHostsPerListStats":{
+    "message":"{{total}}個中{{used}}使用",
+    "description":"English: {{used}} used out of {{total}}"
+  },
+  "3pAutoUpdatePrompt1":{
+    "message":"フィルターリストを自動更新する",
+    "description":"English: Auto-update filter lists."
+  },
+  "3pUpdateNow":{
+    "message":"今すぐ更新",
+    "description":"English: Update now"
+  },
+  "3pPurgeAll":{
+    "message":"全キャッシュを削除",
+    "description":"English: Purge all caches"
+  },
+  "3pParseAllABPHideFiltersPrompt1":{
+    "message":"要素隠蔽フィルタを解析、施行する。",
+    "description":"English: Parse and enforce Adblock+ element hiding filters."
+  },
+  "3pParseAllABPHideFiltersInfo":{
+    "message":"<p>このオプションは<a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus適合の &ldquo;要素遮蔽&rdquo;フィルター<\/a>の解析と施行を有効にします。これらのフィルターは表面的で、ネットリクエストベースのフィルタリングエンジンでブロックできない視覚的に迷惑な要素をウェブページ上で隠す物です。<\/p><p>この機能を有効にすると<i>superNanoBlock<\/i>の使用メモリーを増やします。<\/p>",
+    "description":"English: see English messages.json"
+  },
+  "3pListsOfBlockedHostsHeader":{
+    "message":"ブロックされたホストの一覧表示",
+    "description":"English: Lists of blocked hosts"
+  },
+  "3pApplyChanges":{
+    "message":"適用",
+    "description":"English: Apply changes"
+  },
+  "3pGroupAds":{
+    "message":"広告",
+    "description":"English: Ads"
+  },
+  "3pGroupPrivacy":{
+    "message":"プライバシー",
+    "description":"English: Privacy"
+  },
+  "3pGroupMalware":{
+    "message":"ウイルス",
+    "description":"English: Malware domains"
+  },
+  "3pGroupSocial":{
+    "message":"ソーシャル",
+    "description":"English: Social"
+  },
+  "3pGroupMultipurpose":{
+    "message":"多目的",
+    "description":"English: Multipurpose"
+  },
+  "3pGroupRegions":{
+    "message":"地域、言語",
+    "description":"English: Regions, languages"
+  },
+  "3pGroupCustom":{
+    "message":"カスタム",
+    "description":"English: Custom"
+  },
+  "3pExternalListsHint":{
+    "message":"URL一つにつき一行です。&lsquo;!&rsquo;ですでに固定されている行は無視されます。無効なURLもそのまま無視されます。",
+    "description":"English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored."
+  },
+  "3pExternalListsApply":{
+    "message":"適用",
+    "description":"English: Parse"
+  },
+  "3pExternalListPurge":{
+    "message":"キャッシュを削除",
+    "description":"English: purge cache"
+  },
+  "3pExternalListNew":{
+    "message":"新しいバージョンが使用可能です",
+    "description":"English: new version available"
+  },
+  "3pExternalListObsolete":{
+    "message":"古いバージョンです",
+    "description":"English: outdated"
+  },
+  "1pFormatHint":{
+    "message":"一つのフィルターにつき一行です。フィルターはただのホストネームでもAdblock Plus適合のフィルターでも構いません。&lsquo;!&rsquo;ですでに固定されている行は無視されます。",
+    "description":"English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored."
+  },
+  "1pImport":{
+    "message":"インポートと追加",
+    "description":"English: Import and append"
+  },
+  "1pExport":{
+    "message":"エクスポート",
+    "description":"English: Export"
+  },
+  "1pExportFilename":{
+    "message":"my-ublock-static-filters_{{datetime}}.txt",
+    "description":"English: my-ublock-static-filters_{{datetime}}.txt"
+  },
+  "1pApplyChanges":{
+    "message":"変更を適用",
+    "description":"English: Apply changes"
+  },
+  "rulesEdit":{
+    "message":"編集",
+    "description":"Will enable manual-edit mode (textarea)"
+  },
+  "rulesEditSave":{
+    "message":"保存",
+    "description":"Will save manually-edited content and exit manual-edit mode"
+  },
+  "rulesEditDiscard":{
+    "message":"破棄",
+    "description":"Will discard manually-edited content and exit manual-edit mode"
+  },
+  "rulesImport":{
+    "message":"ファイルからインポート",
+    "description":""
+  },
+  "rulesExport":{
+    "message":"ファイルへエクスポート",
+    "description":""
+  },
+  "rulesDefaultFileName":{
+    "message":"my-ublock-dynamic-rules_{{datetime}}.txt",
+    "description":"default file name to use"
+  },
+  "rulesHint":{
+    "message":"List of your dynamic filtering rules.",
+    "description":"English: List of your dynamic filtering rules."
+  },
+  "rulesFormatHint":{
+    "message":"Rule syntax: <code>source destination type action<\/code> (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Dynamic-filtering:-rule-syntax'>full documentation<\/a>).",
+    "description":"English: dynamic rule syntax and full documentation."
+  },
+  "whitelistPrompt":{
+    "message":"このエクステンションホスト名のリストは無効になります。１ 行につき １ つのエントリ。無効なホスト名はサイレント モードで無視されます。",
+    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+  },
+  "whitelistImport":{
+    "message":"インポートと追加",
+    "description":"English: Import and append"
+  },
+  "whitelistExport":{
+    "message":"エクスポート",
+    "description":"English: Export"
+  },
+  "whitelistExportFilename":{
+    "message":"my-ublock-whitelist_{{datetime}}.txt",
+    "description":"English: my-ublock-whitelist_{{datetime}}.txt"
+  },
+  "whitelistApply":{
+    "message":"変更を適用",
+    "description":"English: Apply changes"
+  },
+  "logNetRequestsPrompt":{
+    "message":"ネットワークリクエストのログ収集を有効にする",
+    "description":"English: Enable the logging of network requests"
+  },
+  "logNetRequestsHelp":{
+    "message":"このオプションを有効にすることで、ネットワークリクエストの詳細を調べられます。ネットワークリクエストのログ収集は使用メモリーを増やすので、大半のユーザーはこの機能を使いません。よって、初期設定では無効になっています。",
+    "description":"English: see _locales\/en\/messages.log"
+  },
+  "logBlockedRequestsHeader":{
+    "message":"ブロックされたリルエスト",
+    "description":"English: Blocked requests"
+  },
+  "logAllowedRequestsHeader":{
+    "message":"許可されたリクエスト",
+    "description":"English: Allowed requests"
+  },
+  "logRequestsHeaderType":{
+    "message":"タイプ",
+    "description":"English: Type"
+  },
+  "logRequestsHeaderDomain":{
+    "message":"ドメイン",
+    "description":"English: Domain"
+  },
+  "logRequestsHeaderURL":{
+    "message":"インターネットアドレス",
+    "description":"English: URL"
+  },
+  "logRequestsHeaderFilter":{
+    "message":"フィルター",
+    "description":"English: Filter"
+  },
+  "logBlockedRequestsEmpty":{
+    "message":"このページでブロックされたリクエストは在りません",
+    "description":"English: No blocked requests logged for this page"
+  },
+  "logAllowedRequestsEmpty":{
+    "message":"このページでブロックされたリクエストは在りません",
+    "description":"English: No non-blocked requests logged for this page"
+  },
+  "logBehindTheScene":{
+    "message":"Behind the scene",
+    "description":"Pretty name for behind-the-scene network requests"
+  },
+  "aboutChangelog":{
+    "message":"の変更履歴",
+    "description":"English: Change log"
+  },
+  "aboutWiki":{
+    "message":"Wiki",
+    "description":"English: project' wiki on Github"
+  },
+  "aboutCode":{
+    "message":"根源コード（GPLバージョン３）",
+    "description":"English: Source code (GPLv3)"
+  },
+  "aboutContributors":{
+    "message":"貢献者達",
+    "description":"English: Contributors"
+  },
+  "aboutBackupDataButton":{
+    "message":"ファイルにバックアップ...",
+    "description":"English: Backup to file"
+  },
+  "aboutBackupFilename":{
+    "message":"my-ublock-backup_{{datetime}}.txt",
+    "description":"English: my-ublock-backup_{{datetime}}.txt"
+  },
+  "aboutRestoreDataButton":{
+    "message":"ファイルからの復元...",
+    "description":"English: Restore from file..."
+  },
+  "aboutResetDataButton":{
+    "message":"デフォルトの設定に戻す",
+    "description":"English: Reset to default settings..."
+  },
+  "aboutRestoreDataConfirm":{
+    "message":"{{time}}のバックアップデータを使用して全ての設定を上書きした後、superNanoBlockが再起動します。\n\nバックアップデータを使用して既存の全ての設定の上書きを実行しますか？",
+    "description":"Message asking user to confirm restore"
+  },
+  "aboutRestoreDataError":{
+    "message":"The data could not be read or is invalid",
+    "description":"Message to display when an error occurred during restore"
+  },
+  "aboutResetDataConfirm":{
+    "message":"全ての設定が消去された後、superNanoBlockが再起動します。\n\n初期設定にリセットしますか？",
+    "description":"Message asking user to confirm reset"
+  },
+  "errorCantConnectTo":{
+    "message":"{{url}}に接続できません",
+    "description":"English: Network error: unable to connect to {{url}}"
+  },
+  "dummy":{
+    "message":"This entry must be the last one",
+    "description":"so we dont need to deal with comma for last entry"
+  }
+}

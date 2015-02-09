@@ -1,0 +1,478 @@
+{
+  "extName":{
+    "message":"superNanoBlock",
+    "description":"extension name."
+  },
+  "extShortDesc":{
+    "message":"Ефективний блокувальник реклами таки з’явився. Не навантажує процесор та пам'ять.",
+    "description":"this will be in the chrome web store: must be 132 characters or less"
+  },
+  "dashboardName":{
+    "message":"superNanoBlock — Панель керування",
+    "description":"English: superNanoBlock — Dashboard"
+  },
+  "settingsPageName":{
+    "message":"Налаштування",
+    "description":"appears as tab name in dashboard"
+  },
+  "3pPageName":{
+    "message":"Сторонні фільтри",
+    "description":"appears as tab name in dashboard"
+  },
+  "1pPageName":{
+    "message":"Власні фільтри",
+    "description":"appears as tab name in dashboard"
+  },
+  "rulesPageName":{
+    "message":"Мої правила",
+    "description":"appears as tab name in dashboard"
+  },
+  "whitelistPageName":{
+    "message":"Білий список",
+    "description":"appears as tab name in dashboard"
+  },
+  "statsPageName":{
+    "message":"superNanoBlock — Network request log",
+    "description":"Title for the network request log window"
+  },
+  "aboutPageName":{
+    "message":"Про програму",
+    "description":"appears as tab name in dashboard"
+  },
+  "popupPowerSwitchInfo":{
+    "message":"Натиснення: вимикає\/умикає superNanoBlock для поточного сайту.\n\nCtrl+натиснення: вимикає superNanoBlock тільки для цієї сторінки.",
+    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+  },
+  "popupBlockedRequestPrompt":{
+    "message":"запитів заблоковано",
+    "description":"English: requests blocked"
+  },
+  "popupBlockedOnThisPagePrompt":{
+    "message":"на цій сторінці",
+    "description":"English: on this page"
+  },
+  "popupBlockedSinceInstallPrompt":{
+    "message":"від моменту встановлення",
+    "description":"English: since install"
+  },
+  "popupOr":{
+    "message":"або",
+    "description":"English: or"
+  },
+  "popupTipDashboard":{
+    "message":"Клацніть, щоб відкрити приладну дошку",
+    "description":"English: Click to open the dashboard"
+  },
+  "popupTipPicker":{
+    "message":"Перейти у режим вибору элементів",
+    "description":"English: Enter element picker mode"
+  },
+  "popupTipLog":{
+    "message":"Перейти до журналу запитів",
+    "description":"English: Go to request log"
+  },
+  "popupSiteInlineScriptEnabled":{
+    "message":"Вбудовані теґи <code>script<\/code> <b>дозволені<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSiteInlineScriptDisabled":{
+    "message":"Вбудовані теґи <code>script<\/code> <b>блокуються<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite1pScriptEnabled":{
+    "message":"Основні скрипти <b>дозволені<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite1pScriptDisabled":{
+    "message":"Основні скрипти <b>заблоковані<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite3pScriptEnabled":{
+    "message":"Сторонні скрипти <b>дозволені<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite3pScriptDisabled":{
+    "message":"Сторонні скрипти <b>заблоковані<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite1pFrameEnabled":{
+    "message":"Основні фрейми <b>дозволені<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite1pFrameDisabled":{
+    "message":"Основні фрейми <b>заблоковані<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite3pFrameEnabled":{
+    "message":"Сторонні фрейми <b>дозволені<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupSite3pFrameDisabled":{
+    "message":"Сторонні фрейми <b>заблоковані<\/b> на цьому сайті",
+    "description":""
+  },
+  "popupDefaultInlineScriptEnabled":{
+    "message":"Вбудовані теґи <code>script<\/code> <b>дозволені<\/b> будь-де за замовченням",
+    "description":""
+  },
+  "popupDefaultInlineScriptDisabled":{
+    "message":"Вбудовані теґи <code>script<\/code> <b>блокуються<\/b> будь-де за замовченням",
+    "description":""
+  },
+  "popupDefault1pScriptEnabled":{
+    "message":"Основні скрипти <b>дозволені<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupDefault1pScriptDisabled":{
+    "message":"Основні скрипти <b>заблоковані<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupDefault3pScriptEnabled":{
+    "message":"Сторонні скрипти <b>дозволені<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupDefault3pScriptDisabled":{
+    "message":"Сторонні скрипти <b>заблоковані<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupDefault1pFrameEnabled":{
+    "message":"Основні фрейми <b>дозволені<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupDefault1pFrameDisabled":{
+    "message":"Основні фрейми <b>заблоковані<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupDefault3pFrameEnabled":{
+    "message":"Сторонні фрейми <b>дозволені<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupDefault3pFrameDisabled":{
+    "message":"Сторонні фрейми <b>заблоковані<\/b> будь-де за замовчанням",
+    "description":""
+  },
+  "popupImageRulePrompt":{
+    "message":"зображення",
+    "description":""
+  },
+  "popupInlineScriptRulePrompt":{
+    "message":"вбудовані сценарії",
+    "description":""
+  },
+  "popup1pScriptRulePrompt":{
+    "message":"Основні скрипти",
+    "description":""
+  },
+  "popup3pScriptRulePrompt":{
+    "message":"Сторонні скрипти",
+    "description":""
+  },
+  "popup3pFrameRulePrompt":{
+    "message":"Сторонні фрейми",
+    "description":""
+  },
+  "popupHitDomainCountPrompt":{
+    "message":"Підключено до {{count}} різних доменів({{total}} всього доменів)",
+    "description":"appear in dynamic filtering pane"
+  },
+  "pickerCreate":{
+    "message":"Створити",
+    "description":"English: Create"
+  },
+  "pickerPick":{
+    "message":"Вибрати",
+    "description":"English: Pick"
+  },
+  "pickerQuit":{
+    "message":"Вийти",
+    "description":"English: Quit"
+  },
+  "pickerNetFilters":{
+    "message":"Мережні фільтри",
+    "description":"English: Net filters"
+  },
+  "pickerCosmeticFilters":{
+    "message":"Косметичні фільтри",
+    "description":"English: Cosmetic filters"
+  },
+  "pickerCosmeticFiltersHint":{
+    "message":"Клік, Ctrl-клік",
+    "description":"English: Click, Ctrl-click"
+  },
+  "pickerContextMenuEntry":{
+    "message":"Заблокувати елемент",
+    "description":"English: Block element"
+  },
+  "settingsCollapseBlockedPrompt":{
+    "message":"Ховати заповнювачі заблокованих елементів",
+    "description":"English: Hide placeholders of blocked elements"
+  },
+  "settingsIconBadgePrompt":{
+    "message":"Показувати кількість заблокованих запитів на піктограмі",
+    "description":"English: Show the number of blocked requests on the icon"
+  },
+  "settingsContextMenuPrompt":{
+    "message":"Використовувати контекстне меню там, де це можливо",
+    "description":"English: Make use of context menu where appropriate"
+  },
+  "settingsAdvancedUserPrompt":{
+    "message":"Я досвідчений користувач (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Advanced-user-features'>Обов’язково для прочитання<\/a>)",
+    "description":"English: "
+  },
+  "settingsExperimentalPrompt":{
+    "message":"Ввімкнути експериментальні функції (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Experimental-features'>Детальніше тут<\/a>)",
+    "description":"English: Enable experimental features"
+  },
+  "3pListsOfBlockedHostsPrompt":{
+    "message":"{{netFilterCount}} мережевих фільтрів ＋ {{cosmeticFilterCount}} косметичних фільтрів з:",
+    "description":"English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:"
+  },
+  "3pListsOfBlockedHostsPerListStats":{
+    "message":"використовується {{used}} з {{total}}",
+    "description":"English: {{used}} used out of {{total}}"
+  },
+  "3pAutoUpdatePrompt1":{
+    "message":"Автоматично оновити списки фільтрів.",
+    "description":"English: Auto-update filter lists."
+  },
+  "3pUpdateNow":{
+    "message":"Оновити зараз",
+    "description":"English: Update now"
+  },
+  "3pPurgeAll":{
+    "message":"Очистити всі кеші",
+    "description":"English: Purge all caches"
+  },
+  "3pParseAllABPHideFiltersPrompt1":{
+    "message":"Розбір та застосування фільтрів приховування елементів Adblock+.",
+    "description":"English: Parse and enforce Adblock+ element hiding filters."
+  },
+  "3pParseAllABPHideFiltersInfo":{
+    "message":"<p> Ця опція вмикає розбір та задіяння <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-сумісних &ldquo;element hiding&rdquo; фільтрів<\/a>. Ці фільтри є фактично косметичними – дозволяють приховати елементи в інтернеті, які є візуальними незручностями і які підходять для рушія блокування запитів.<\/p><p>Увімкнення цієї функції збільшує споживання пам’яті <i>superNanoBlock<\/i>'ом.<\/p>",
+    "description":"English: see English messages.json"
+  },
+  "3pListsOfBlockedHostsHeader":{
+    "message":"Перелік заблокованих хостів",
+    "description":"English: Lists of blocked hosts"
+  },
+  "3pApplyChanges":{
+    "message":"Застосувати зміни",
+    "description":"English: Apply changes"
+  },
+  "3pGroupAds":{
+    "message":"Реклама",
+    "description":"English: Ads"
+  },
+  "3pGroupPrivacy":{
+    "message":"Конфіденційність",
+    "description":"English: Privacy"
+  },
+  "3pGroupMalware":{
+    "message":"Домени шкідливих програм",
+    "description":"English: Malware domains"
+  },
+  "3pGroupSocial":{
+    "message":"Соціальні",
+    "description":"English: Social"
+  },
+  "3pGroupMultipurpose":{
+    "message":"Універсальні",
+    "description":"English: Multipurpose"
+  },
+  "3pGroupRegions":{
+    "message":"Регіони, мови",
+    "description":"English: Regions, languages"
+  },
+  "3pGroupCustom":{
+    "message":"Користувацькі",
+    "description":"English: Custom"
+  },
+  "3pExternalListsHint":{
+    "message":"Одне посилання на рядок. Рядки, що починаються з &lsquo;!&rsquo;  будуть проігноровані. Невірні посилання будуть тихо проігноровані.",
+    "description":"English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored."
+  },
+  "3pExternalListsApply":{
+    "message":"Проаналізувати",
+    "description":"English: Parse"
+  },
+  "3pExternalListPurge":{
+    "message":"очистити кеш",
+    "description":"English: purge cache"
+  },
+  "3pExternalListNew":{
+    "message":"наявна нова версія",
+    "description":"English: new version available"
+  },
+  "3pExternalListObsolete":{
+    "message":"застаріле",
+    "description":"English: outdated"
+  },
+  "1pFormatHint":{
+    "message":"Один фільтр на рядок. Фільтром може бути адреса сайту або фільтр у Adblock Plus-сумісному записі. Рядки, що починаються з &lsquo;!&rsquo; ігноруються.",
+    "description":"English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored."
+  },
+  "1pImport":{
+    "message":"Імпортувати та додати",
+    "description":"English: Import and append"
+  },
+  "1pExport":{
+    "message":"Експортувати",
+    "description":"English: Export"
+  },
+  "1pExportFilename":{
+    "message":"ublock-custom-filters_{{datetime}}.txt",
+    "description":"English: my-ublock-static-filters_{{datetime}}.txt"
+  },
+  "1pApplyChanges":{
+    "message":"Застосувати зміни",
+    "description":"English: Apply changes"
+  },
+  "rulesEdit":{
+    "message":"Редагувати",
+    "description":"Will enable manual-edit mode (textarea)"
+  },
+  "rulesEditSave":{
+    "message":"Зберегти",
+    "description":"Will save manually-edited content and exit manual-edit mode"
+  },
+  "rulesEditDiscard":{
+    "message":"Відкинути",
+    "description":"Will discard manually-edited content and exit manual-edit mode"
+  },
+  "rulesImport":{
+    "message":" Імпортувати з файлу...",
+    "description":""
+  },
+  "rulesExport":{
+    "message":"Експорт до файлу...",
+    "description":""
+  },
+  "rulesDefaultFileName":{
+    "message":"my-ublock-dynamic-rules_{{datetime}}.txt",
+    "description":"default file name to use"
+  },
+  "rulesHint":{
+    "message":"List of your dynamic filtering rules.",
+    "description":"English: List of your dynamic filtering rules."
+  },
+  "rulesFormatHint":{
+    "message":"Rule syntax: <code>source destination type action<\/code> (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Dynamic-filtering:-rule-syntax'>full documentation<\/a>).",
+    "description":"English: dynamic rule syntax and full documentation."
+  },
+  "whitelistPrompt":{
+    "message":"Список тих доменів, для яких superNanoBlock буде вимикатись. Один запис на рядок. Недопустимі назви будуть ігноруватись.",
+    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+  },
+  "whitelistImport":{
+    "message":"Імпортувати та додати",
+    "description":"English: Import and append"
+  },
+  "whitelistExport":{
+    "message":"Експортувати",
+    "description":"English: Export"
+  },
+  "whitelistExportFilename":{
+    "message":"ublock-whitelist_{{datetime}}.txt",
+    "description":"English: my-ublock-whitelist_{{datetime}}.txt"
+  },
+  "whitelistApply":{
+    "message":"Застосувати зміни",
+    "description":"English: Apply changes"
+  },
+  "logNetRequestsPrompt":{
+    "message":"Задіяти журналювання мережевих запитів",
+    "description":"English: Enable the logging of network requests"
+  },
+  "logNetRequestsHelp":{
+    "message":"Задіявши цю опцію, ви можете переглядати деталі мережевих запитів. Журналювання  мережевих запитів збільшує використання пам’яті superNanoBlock. Так як більшість користувачів ніколи не використовують цю функцію, за замовчуванням її вимкнено.",
+    "description":"English: see _locales\/en\/messages.log"
+  },
+  "logBlockedRequestsHeader":{
+    "message":"Заблоковані запити",
+    "description":"English: Blocked requests"
+  },
+  "logAllowedRequestsHeader":{
+    "message":"Дозволені запити",
+    "description":"English: Allowed requests"
+  },
+  "logRequestsHeaderType":{
+    "message":"Тип",
+    "description":"English: Type"
+  },
+  "logRequestsHeaderDomain":{
+    "message":"Домен",
+    "description":"English: Domain"
+  },
+  "logRequestsHeaderURL":{
+    "message":"Адреса",
+    "description":"English: URL"
+  },
+  "logRequestsHeaderFilter":{
+    "message":"Фільтр",
+    "description":"English: Filter"
+  },
+  "logBlockedRequestsEmpty":{
+    "message":"На цій сторінці відсутні заблоковані запити",
+    "description":"English: No blocked requests logged for this page"
+  },
+  "logAllowedRequestsEmpty":{
+    "message":"На цій сторінці блокуються всі запити",
+    "description":"English: No non-blocked requests logged for this page"
+  },
+  "logBehindTheScene":{
+    "message":"Behind the scene",
+    "description":"Pretty name for behind-the-scene network requests"
+  },
+  "aboutChangelog":{
+    "message":"Журнал змін",
+    "description":"English: Change log"
+  },
+  "aboutWiki":{
+    "message":"Вікі",
+    "description":"English: project' wiki on Github"
+  },
+  "aboutCode":{
+    "message":"Джерельний код (GPLv3)",
+    "description":"English: Source code (GPLv3)"
+  },
+  "aboutContributors":{
+    "message":"Учасники",
+    "description":"English: Contributors"
+  },
+  "aboutBackupDataButton":{
+    "message":"Зберегти резервну копію у файл...",
+    "description":"English: Backup to file"
+  },
+  "aboutBackupFilename":{
+    "message":"ublock-backup_{{datetime}}.txt",
+    "description":"English: my-ublock-backup_{{datetime}}.txt"
+  },
+  "aboutRestoreDataButton":{
+    "message":"Відновити з файлу...",
+    "description":"English: Restore from file..."
+  },
+  "aboutResetDataButton":{
+    "message":"Відновити параметри за промовчанням...",
+    "description":"English: Reset to default settings..."
+  },
+  "aboutRestoreDataConfirm":{
+    "message":"Всі ваші налаштування будуть перезаписані з резервної копії від {{time}} та superNanoBlock буде перезапущено.\n\nПерезаписати всі налаштування використовуючи резервну копію?",
+    "description":"Message asking user to confirm restore"
+  },
+  "aboutRestoreDataError":{
+    "message":"Дані помилкові або не можуть бути прочитані",
+    "description":"Message to display when an error occurred during restore"
+  },
+  "aboutResetDataConfirm":{
+    "message":"Ваші налаштування буде знищено та superNanoBlock буде перезапущено.\n\nПовернути superNanoBlock до заводських налаштувань?",
+    "description":"Message asking user to confirm reset"
+  },
+  "errorCantConnectTo":{
+    "message":"Не вдалося підключитися до {{url}}",
+    "description":"English: Network error: unable to connect to {{url}}"
+  },
+  "dummy":{
+    "message":"Цей запис має бути останнім",
+    "description":"so we dont need to deal with comma for last entry"
+  }
+}

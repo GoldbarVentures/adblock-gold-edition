@@ -1,0 +1,478 @@
+{
+  "extName":{
+    "message":"superNanoBlock",
+    "description":"extension name."
+  },
+  "extShortDesc":{
+    "message":"Sonunda, tarayıcılar için verimli bir reklam engelleyici. CPU ve RAM'i fazla yormaz.",
+    "description":"this will be in the chrome web store: must be 132 characters or less"
+  },
+  "dashboardName":{
+    "message":"superNanoBlock — Kontrol paneli",
+    "description":"English: superNanoBlock — Dashboard"
+  },
+  "settingsPageName":{
+    "message":"Ayarlar",
+    "description":"appears as tab name in dashboard"
+  },
+  "3pPageName":{
+    "message":"3. parti süzgeçler",
+    "description":"appears as tab name in dashboard"
+  },
+  "1pPageName":{
+    "message":"Süzgeçlerim",
+    "description":"appears as tab name in dashboard"
+  },
+  "rulesPageName":{
+    "message":"Kurallarım",
+    "description":"appears as tab name in dashboard"
+  },
+  "whitelistPageName":{
+    "message":"Güvenli adresler listesi",
+    "description":"appears as tab name in dashboard"
+  },
+  "statsPageName":{
+    "message":"superNanoBlock — Ağ istek günlüğü",
+    "description":"Title for the network request log window"
+  },
+  "aboutPageName":{
+    "message":"Hakkında",
+    "description":"appears as tab name in dashboard"
+  },
+  "popupPowerSwitchInfo":{
+    "message":"Tıklama: superNanoBlock'u bu site için kalıcı olarak devre dışı bırak\/etkinleştir.\n\nCtrl+tıklama: superNanoBlock'u sadece bu sayfa için devre dışı bırak.",
+    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+  },
+  "popupBlockedRequestPrompt":{
+    "message":"istek engellendi",
+    "description":"English: requests blocked"
+  },
+  "popupBlockedOnThisPagePrompt":{
+    "message":"bu sayfada",
+    "description":"English: on this page"
+  },
+  "popupBlockedSinceInstallPrompt":{
+    "message":"yüklendiğinden beri",
+    "description":"English: since install"
+  },
+  "popupOr":{
+    "message":"ya da",
+    "description":"English: or"
+  },
+  "popupTipDashboard":{
+    "message":"Panoyu açmak için tıklayın",
+    "description":"English: Click to open the dashboard"
+  },
+  "popupTipPicker":{
+    "message":"Öğe seçme moduna gir",
+    "description":"English: Enter element picker mode"
+  },
+  "popupTipLog":{
+    "message":"İstek günlüğüne git",
+    "description":"English: Go to request log"
+  },
+  "popupSiteInlineScriptEnabled":{
+    "message":"Kod-içi <code>script<\/code> öğelerine bu sitede <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupSiteInlineScriptDisabled":{
+    "message":"Kod-içi <code>script<\/code> öğeleri bu sitede <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupSite1pScriptEnabled":{
+    "message":"1. parti script'lere bu sitede <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupSite1pScriptDisabled":{
+    "message":"1. parti script'ler bu sitede <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupSite3pScriptEnabled":{
+    "message":"3. parti script'lere bu sitede <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupSite3pScriptDisabled":{
+    "message":"3. parti script'ler bu sitede <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupSite1pFrameEnabled":{
+    "message":"1. parti çerçevelere bu sitede <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupSite1pFrameDisabled":{
+    "message":"1. parti çerçeveler bu sitede <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupSite3pFrameEnabled":{
+    "message":"3. parti çerçevelere bu sitede <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupSite3pFrameDisabled":{
+    "message":"3. parti çerçeveler bu sitede <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupDefaultInlineScriptEnabled":{
+    "message":"Kod-içi <code>script<\/code> öğelerine heryerde varsayılan olarak <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupDefaultInlineScriptDisabled":{
+    "message":"Kod-içi <code>script<\/code> öğeleri heryerde varsayılan olarak <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupDefault1pScriptEnabled":{
+    "message":"1. parti script'lerine heryerde varsayılan olarak <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupDefault1pScriptDisabled":{
+    "message":"1. parti script'leri heryerde varsayılan olarak <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupDefault3pScriptEnabled":{
+    "message":"3. parti script'lerine heryerde varsayılan olarak <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupDefault3pScriptDisabled":{
+    "message":"3. parti script'leri heryerde varsayılan olarak <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupDefault1pFrameEnabled":{
+    "message":"1. parti çerçevelerine heryerde varsayılan olarak <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupDefault1pFrameDisabled":{
+    "message":"1. parti çerçeveleri heryerde varsayılan olarak <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupDefault3pFrameEnabled":{
+    "message":"3. parti çerçevelere heryerde varsayılan olarak <b>izin veriliyor<\/b>",
+    "description":""
+  },
+  "popupDefault3pFrameDisabled":{
+    "message":"3. parti çerçeveler heryerde varsayılan olarak <b>engelleniyor<\/b>",
+    "description":""
+  },
+  "popupImageRulePrompt":{
+    "message":"resimler",
+    "description":""
+  },
+  "popupInlineScriptRulePrompt":{
+    "message":"satır içi scriptleri",
+    "description":""
+  },
+  "popup1pScriptRulePrompt":{
+    "message":"1. parti scriptler",
+    "description":""
+  },
+  "popup3pScriptRulePrompt":{
+    "message":"3. parti scriptler",
+    "description":""
+  },
+  "popup3pFrameRulePrompt":{
+    "message":"3. parti çerçeveler",
+    "description":""
+  },
+  "popupHitDomainCountPrompt":{
+    "message":"{{total}} ayrı alan adından {{count}} adedine bağlanmış",
+    "description":"appear in dynamic filtering pane"
+  },
+  "pickerCreate":{
+    "message":"Oluştur",
+    "description":"English: Create"
+  },
+  "pickerPick":{
+    "message":"Seç",
+    "description":"English: Pick"
+  },
+  "pickerQuit":{
+    "message":"Çık",
+    "description":"English: Quit"
+  },
+  "pickerNetFilters":{
+    "message":"Net filtreleri",
+    "description":"English: Net filters"
+  },
+  "pickerCosmeticFilters":{
+    "message":"Kozmetik filtreler",
+    "description":"English: Cosmetic filters"
+  },
+  "pickerCosmeticFiltersHint":{
+    "message":"Ctrl-tıkla, tıklayın",
+    "description":"English: Click, Ctrl-click"
+  },
+  "pickerContextMenuEntry":{
+    "message":"Öge engelle",
+    "description":"English: Block element"
+  },
+  "settingsCollapseBlockedPrompt":{
+    "message":"Engellenen reklamların yerlerini gizle",
+    "description":"English: Hide placeholders of blocked elements"
+  },
+  "settingsIconBadgePrompt":{
+    "message":"Engellenmiş reklam sayısını simge üzerinde göster",
+    "description":"English: Show the number of blocked requests on the icon"
+  },
+  "settingsContextMenuPrompt":{
+    "message":"Bağlam menüsüne superNanoBlock'u ekle",
+    "description":"English: Make use of context menu where appropriate"
+  },
+  "settingsAdvancedUserPrompt":{
+    "message":"Deneyimli kullanıcıyım (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Advanced-user-features'>Okunması gerekir<\/a>)",
+    "description":"English: "
+  },
+  "settingsExperimentalPrompt":{
+    "message":"Test aşamasındaki özellikleri etkinleştir (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Experimental-features'>Hakkında<\/a>)",
+    "description":"English: Enable experimental features"
+  },
+  "3pListsOfBlockedHostsPrompt":{
+    "message":"{{netFilterCount}} ağ filtresi ＋ {{cosmeticFilterCount}} kozmetik filtre:",
+    "description":"English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:"
+  },
+  "3pListsOfBlockedHostsPerListStats":{
+    "message":"{{total}} süzgecin {{used}} adedi kullanıldı",
+    "description":"English: {{used}} used out of {{total}}"
+  },
+  "3pAutoUpdatePrompt1":{
+    "message":"Filtre listelerini otomatik güncelle",
+    "description":"English: Auto-update filter lists."
+  },
+  "3pUpdateNow":{
+    "message":"Şimdi güncelle",
+    "description":"English: Update now"
+  },
+  "3pPurgeAll":{
+    "message":"Tüm önbelleği temizle",
+    "description":"English: Purge all caches"
+  },
+  "3pParseAllABPHideFiltersPrompt1":{
+    "message":"Öğe gizleme filtrelerini işle ve uygula.",
+    "description":"English: Parse and enforce Adblock+ element hiding filters."
+  },
+  "3pParseAllABPHideFiltersInfo":{
+    "message":"<p>Bu seçenek <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\"> Adblock Plus-uyumlu &ldquo;öğe gizleme&rdquo; filtrelerinin<\/a> işlenmesini ve uygulanmasını sağlar. Bu filtreler aslında kozmetiktir, bir web sayfasında istek-tabanlı filtreleme motoru tarafından engellenemeyecek olan ve görsel keyif amacıyla sayfadaki öğelerin gizlenmesine yardım eder.<\/p><p>Bu özellik etkinleştirildiğinde, <i>superNanoBlock<\/i>'un bellek ayak izi artar.<\/p>",
+    "description":"English: see English messages.json"
+  },
+  "3pListsOfBlockedHostsHeader":{
+    "message":"Engellenmiş Host listesi",
+    "description":"English: Lists of blocked hosts"
+  },
+  "3pApplyChanges":{
+    "message":"Değişiklikleri uygula",
+    "description":"English: Apply changes"
+  },
+  "3pGroupAds":{
+    "message":"Reklamlar",
+    "description":"English: Ads"
+  },
+  "3pGroupPrivacy":{
+    "message":"Gizlilik",
+    "description":"English: Privacy"
+  },
+  "3pGroupMalware":{
+    "message":"Zararlı alan adları",
+    "description":"English: Malware domains"
+  },
+  "3pGroupSocial":{
+    "message":"Sosyal",
+    "description":"English: Social"
+  },
+  "3pGroupMultipurpose":{
+    "message":"Çok-amaçlı",
+    "description":"English: Multipurpose"
+  },
+  "3pGroupRegions":{
+    "message":"Bölgeler, diller",
+    "description":"English: Regions, languages"
+  },
+  "3pGroupCustom":{
+    "message":"Özel",
+    "description":"English: Custom"
+  },
+  "3pExternalListsHint":{
+    "message":"Satır başına bir URL. &lsquo;!&rsquo; ile başlayan satırlar göz ardı edilir. Geçersiz URL'ler sessizce yoksayılır.",
+    "description":"English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored."
+  },
+  "3pExternalListsApply":{
+    "message":"Uygula",
+    "description":"English: Parse"
+  },
+  "3pExternalListPurge":{
+    "message":"önbelleği temizle",
+    "description":"English: purge cache"
+  },
+  "3pExternalListNew":{
+    "message":"yeni sürüm mevcut",
+    "description":"English: new version available"
+  },
+  "3pExternalListObsolete":{
+    "message":"eskimiş olabilir",
+    "description":"English: outdated"
+  },
+  "1pFormatHint":{
+    "message":"Satır başına bir süzgeç. Filtre host adı veya Adblock Plus-uyumlu filtre olabilir. &lsquo;!&rsquo; ile başlayan satırlar göz ardı edilir.",
+    "description":"English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored."
+  },
+  "1pImport":{
+    "message":"İçe aktar ve sonuna ekle",
+    "description":"English: Import and append"
+  },
+  "1pExport":{
+    "message":"Dışa aktar",
+    "description":"English: Export"
+  },
+  "1pExportFilename":{
+    "message":"ublock-statik-filtrelerim_{{datetime}}.txt",
+    "description":"English: my-ublock-static-filters_{{datetime}}.txt"
+  },
+  "1pApplyChanges":{
+    "message":"Değişiklikleri uygula",
+    "description":"English: Apply changes"
+  },
+  "rulesEdit":{
+    "message":"Düzenle",
+    "description":"Will enable manual-edit mode (textarea)"
+  },
+  "rulesEditSave":{
+    "message":"Kaydet",
+    "description":"Will save manually-edited content and exit manual-edit mode"
+  },
+  "rulesEditDiscard":{
+    "message":"İptal et",
+    "description":"Will discard manually-edited content and exit manual-edit mode"
+  },
+  "rulesImport":{
+    "message":"Dosyadan içe aktar...",
+    "description":""
+  },
+  "rulesExport":{
+    "message":"Dışa aktar...",
+    "description":""
+  },
+  "rulesDefaultFileName":{
+    "message":"dinamik-ublock-kurallarım_{{datetime}}.txt",
+    "description":"default file name to use"
+  },
+  "rulesHint":{
+    "message":"Dinamik filtre kurallarınızın listesi.",
+    "description":"English: List of your dynamic filtering rules."
+  },
+  "rulesFormatHint":{
+    "message":"Kural dizimi: <code>kaynak hedefi türü işlemi<\/code> (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Dynamic-filtering:-rule-syntax'>bütün belgeler<\/a>).",
+    "description":"English: dynamic rule syntax and full documentation."
+  },
+  "whitelistPrompt":{
+    "message":"Hangi alan adları için superNanoBlock'un devre dışı olacağını belirten listeniz. Satır başına bir girdi. Geçersiz alan adları sessizce yok sayılır.",
+    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+  },
+  "whitelistImport":{
+    "message":"İçe aktar ve sonuna ekle",
+    "description":"English: Import and append"
+  },
+  "whitelistExport":{
+    "message":"Dışa aktar",
+    "description":"English: Export"
+  },
+  "whitelistExportFilename":{
+    "message":"ublock-beyazliste_{{datetime}}.txt",
+    "description":"English: my-ublock-whitelist_{{datetime}}.txt"
+  },
+  "whitelistApply":{
+    "message":"Değişiklikleri uygula",
+    "description":"English: Apply changes"
+  },
+  "logNetRequestsPrompt":{
+    "message":"Ağ isteklerinin kaydını tut",
+    "description":"English: Enable the logging of network requests"
+  },
+  "logNetRequestsHelp":{
+    "message":"Bu seçeneği etkinleştirerek isterseniz engellenmiş reklamların detaylarını inceleyebiliriz. Engellenmiş reklamların kaydını tutmak superNanoBlock bellek izini artırır. Birçok kullanıcı bu özelliği kullanmaz, bu yüzden varsayılan olarak devre dışıdır.",
+    "description":"English: see _locales\/en\/messages.log"
+  },
+  "logBlockedRequestsHeader":{
+    "message":"Engellenen istekler",
+    "description":"English: Blocked requests"
+  },
+  "logAllowedRequestsHeader":{
+    "message":"İzin verilen istekler",
+    "description":"English: Allowed requests"
+  },
+  "logRequestsHeaderType":{
+    "message":"Tür",
+    "description":"English: Type"
+  },
+  "logRequestsHeaderDomain":{
+    "message":"Alan adı",
+    "description":"English: Domain"
+  },
+  "logRequestsHeaderURL":{
+    "message":"URL",
+    "description":"English: URL"
+  },
+  "logRequestsHeaderFilter":{
+    "message":"Süzgeç",
+    "description":"English: Filter"
+  },
+  "logBlockedRequestsEmpty":{
+    "message":"Bu sayfa için kayıtlı engellenmiş istek yok",
+    "description":"English: No blocked requests logged for this page"
+  },
+  "logAllowedRequestsEmpty":{
+    "message":"Bu sayfa için kayıtlı engellenmemiş istek yok",
+    "description":"English: No non-blocked requests logged for this page"
+  },
+  "logBehindTheScene":{
+    "message":"Sahne arkası",
+    "description":"Pretty name for behind-the-scene network requests"
+  },
+  "aboutChangelog":{
+    "message":"Değişiklikler",
+    "description":"English: Change log"
+  },
+  "aboutWiki":{
+    "message":"Viki",
+    "description":"English: project' wiki on Github"
+  },
+  "aboutCode":{
+    "message":"Kaynak kodu (GPLv3)",
+    "description":"English: Source code (GPLv3)"
+  },
+  "aboutContributors":{
+    "message":"Katkıda bulunanlar",
+    "description":"English: Contributors"
+  },
+  "aboutBackupDataButton":{
+    "message":"Dosyaya yedekle...",
+    "description":"English: Backup to file"
+  },
+  "aboutBackupFilename":{
+    "message":"ublock-yedek_{{datetime}}.txt",
+    "description":"English: my-ublock-backup_{{datetime}}.txt"
+  },
+  "aboutRestoreDataButton":{
+    "message":"Dosyadan içe aktar...",
+    "description":"English: Restore from file..."
+  },
+  "aboutResetDataButton":{
+    "message":"Tüm ayarları sıfırla...",
+    "description":"English: Reset to default settings..."
+  },
+  "aboutRestoreDataConfirm":{
+    "message":"Tüm ayarlarınız {{time}} tarihinde yedeklenmiş veriler kullanarak değiştirilecek ve superNanoBlock yeniden başlayacak.  Yedeklenmiş verileriniz kullanılarak mevcut tüm ayarlarınız değiştirilsin mi?",
+    "description":"Message asking user to confirm restore"
+  },
+  "aboutRestoreDataError":{
+    "message":"Veri okunamıyor ya da geçersiz",
+    "description":"Message to display when an error occurred during restore"
+  },
+  "aboutResetDataConfirm":{
+    "message":"Tüm ayarlarınızı silinecek, ve superNanoBlock yeniden başlayacak.\n\nsuperNanoBlock fabrika ayarlarına döndürülsün mü?",
+    "description":"Message asking user to confirm reset"
+  },
+  "errorCantConnectTo":{
+    "message":"{{url}} sitesine bağlanılamıyor",
+    "description":"English: Network error: unable to connect to {{url}}"
+  },
+  "dummy":{
+    "message":"Bu giriş sonuncusu olmalıdır",
+    "description":"so we dont need to deal with comma for last entry"
+  }
+}

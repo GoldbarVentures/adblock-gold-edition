@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ublock.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter3777">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.7288082"
+         id="feGaussianBlur3779" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3795">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4858722"
+         id="feGaussianBlur3797" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3834">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5952112"
+         id="feGaussianBlur3836" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3854">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.3968075"
+         id="feGaussianBlur3856" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4135">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9263524"
+         id="feGaussianBlur4137" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4149">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9509016"
+         id="feGaussianBlur4151" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4230">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.5383594"
+         id="feGaussianBlur4232" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4610">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5320259"
+         id="feGaussianBlur4612" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4750">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.3773731"
+         id="feGaussianBlur4752" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4762">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5660597"
+         id="feGaussianBlur4764" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63479483"
+     inkscape:cx="-23.736024"
+     inkscape:cy="-1757.748"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3903"
+       transform="translate(-26.775198,-41.969542)"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon19.png"
+       inkscape:export-xdpi="3.5559402"
+       inkscape:export-ydpi="3.5559402">
+      <text
+         xml:space="preserve"
+         style="font-size:210.67218018px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.73000004;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3854);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="214.35435"
+         y="641.72217"
+         id="text3838"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3840"
+           x="214.35435"
+           y="641.72217">AD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:210.67218018px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.94499966;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter3834);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="217.3848"
+         y="645.7627"
+         id="text3814"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3816"
+           x="217.3848"
+           y="645.7627">AD</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3810"
+         y="642.7323"
+         x="215.3645"
+         style="font-size:210.67218018px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="642.7323"
+           x="215.3645"
+           id="tspan3812"
+           sodipodi:role="line">AD</tspan></text>
+      <path
+         style="opacity:0.63374484;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3795)"
+         d="m 535.75351,405.19716 c -87.58902,-87.58902 -229.63675,-87.58902 -317.22577,0 -87.58902,87.58902 -87.56693,229.61466 0.0221,317.20368 87.58902,87.58902 229.59257,87.58902 317.18159,0 87.58902,-87.58902 87.61111,-229.61466 0.0221,-317.20368 z m -63.04298,14.51779 -239.64291,239.64291 c -44.63352,-67.13701 -37.36637,-158.5906 21.83192,-217.78889 59.19829,-59.1983 150.66979,-66.48336 217.81099,-21.85402 z m 48.5031,48.5031 c 44.64392,67.13935 37.35176,158.60521 -21.85402,217.81099 -59.20577,59.20577 -150.65372,66.48002 -217.78889,21.83192 L 521.21363,468.21805 z"
+         id="path3781"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:0.71193417;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter3777)"
+         d="m 537.89638,407.34003 c -87.58902,-87.58902 -229.63675,-87.58902 -317.22577,0 -87.58902,87.58902 -87.56693,229.61466 0.0221,317.20368 87.58902,87.58902 229.59257,87.58902 317.18159,0 87.58902,-87.58902 87.61111,-229.61466 0.0221,-317.20368 z M 474.8534,421.85782 235.21049,661.50073 C 190.57697,594.36372 197.84412,502.91013 257.04241,443.71184 316.2407,384.51354 407.7122,377.22848 474.8534,421.85782 z m 48.5031,48.5031 c 44.64392,67.13935 37.35176,158.60521 -21.85402,217.81099 -59.20577,59.20577 -150.65372,66.48002 -217.78889,21.83192 L 523.3565,470.36092 z"
+         id="path3763"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2987"
+         d="m 535.75351,403.76858 c -87.58902,-87.58902 -229.63675,-87.58902 -317.22577,0 -87.58902,87.58902 -87.56693,229.61466 0.0221,317.20368 87.58902,87.58902 229.59257,87.58902 317.18159,0 87.58902,-87.58902 87.61111,-229.61466 0.0221,-317.20368 z m -63.04298,14.51779 -239.64291,239.64291 c -44.63352,-67.13701 -37.36637,-158.5906 21.83192,-217.78889 59.19829,-59.1983 150.66979,-66.48336 217.81099,-21.85402 z m 48.5031,48.5031 c 44.64392,67.13935 37.35176,158.60521 -21.85402,217.81099 -59.20577,59.20577 -150.65372,66.48002 -217.78889,21.83192 L 521.21363,466.78947 z"
+         style="fill:#c83737;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4041"
+       d="m -71.62574,368.8701 c -87.58902,-87.58902 -229.63675,-87.58902 -317.22577,0 -87.58902,87.58902 -87.56693,229.61466 0.0221,317.20368 87.58902,87.58902 229.59257,87.58902 317.18159,0 87.58902,-87.58902 87.61111,-229.61466 0.0221,-317.20368 z m -63.04298,14.51779 -239.64291,239.64291 c -44.63352,-67.13701 -37.36637,-158.5906 21.83192,-217.78889 59.19829,-59.1983 150.66979,-66.48336 217.81099,-21.85402 z m 48.5031,48.5031 c 44.64392,67.13935 37.35176,158.60521 -21.85402,217.81099 -59.20577,59.20577 -150.65372,66.48002 -217.78889,21.83192 L -86.16562,431.89099 z"
+       style="fill:#cccccc;fill-opacity:1;stroke:none" />
+    <g
+       id="g4278"
+       transform="translate(886.58086,15.786075)"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon19.png"
+       inkscape:export-xdpi="3.6593945"
+       inkscape:export-ydpi="3.6593945">
+      <path
+         transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,76.880882,332.99834)"
+         d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.6302511"
+         sodipodi:arg1="1.237552"
+         sodipodi:r2="217.87956"
+         sodipodi:r1="235.83115"
+         sodipodi:cy="812.36218"
+         sodipodi:cx="-777.14288"
+         sodipodi:sides="8"
+         id="path4097"
+         style="fill:#b44841;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4230)"
+         d="m -633.81251,847.12053 -127.71875,127.5625 -0.125,180.50007 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.46877 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.03125 154,0.0937 108.8125,108.96875 -0.0937,154.00007 -108.96875,108.7811 -154,-0.094 -108.8125,-108.9687 0.125,-153.96877 108.9375,-108.8125 z"
+         id="path4180" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4153"
+         d="m -634.38393,845.83482 -127.71875,127.5625 -0.125,180.50008 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.46878 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.03125 154,0.0937 108.8125,108.96875 -0.0937,154.00008 -108.96875,108.7812 -154,-0.094 -108.8125,-108.9687 0.125,-153.96888 108.9375,-108.8125 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:192.42274475px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.89300411;fill:#333333;fill-opacity:1;stroke:none;filter:url(#filter4135);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="-669.90973"
+         y="1134.5009"
+         id="text4101"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4103"
+           x="-669.90973"
+           y="1134.5009"
+           style="letter-spacing:-14.4899826px;fill:#333333"><tspan
+   style="font-style:italic;letter-spacing:-14.4899826px;fill:#333333;-inkscape-font-specification:Sans Bold Italic"
+   id="tspan4105"
+   dx="-4.1699986">n</tspan>B</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4139"
+         y="1131.0166"
+         x="-674.40466"
+         style="font-size:192.42274475px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.79835391;fill:#333333;fill-opacity:1;stroke:none;filter:url(#filter4149);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="letter-spacing:-14.4899826px;fill:#333333"
+           y="1131.0166"
+           x="-674.40466"
+           id="tspan4141"
+           sodipodi:role="line"><tspan
+   dx="-4.1699986"
+   id="tspan4143"
+   style="font-style:italic;letter-spacing:-14.4899826px;fill:#333333;-inkscape-font-specification:Sans Bold Italic">n</tspan>B</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4089"
+         y="1131.6439"
+         x="-672.76691"
+         style="font-size:192.42274475px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="letter-spacing:-14.4899826px;fill:#ffffff"
+           y="1131.6439"
+           x="-672.76691"
+           id="tspan4091"
+           sodipodi:role="line"><tspan
+   dx="-4.1699986"
+   id="tspan4093"
+   style="font-style:italic;letter-spacing:-14.4899826px;fill:#ffffff;-inkscape-font-specification:Sans Bold Italic">n</tspan>B</tspan></text>
+    </g>
+    <g
+       id="g4409"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon19-off.png"
+       inkscape:export-xdpi="3.6593945"
+       inkscape:export-ydpi="3.6593945">
+      <path
+         sodipodi:type="star"
+         style="fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+         id="path4254"
+         sodipodi:sides="8"
+         sodipodi:cx="-777.14288"
+         sodipodi:cy="812.36218"
+         sodipodi:r1="235.83115"
+         sodipodi:r2="217.87956"
+         sodipodi:arg1="1.237552"
+         sodipodi:arg2="1.6302511"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+         transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,381.16659,355.85548)" />
+      <path
+         id="path4256"
+         d="m -329.52683,869.97767 -127.7187,127.5625 -0.125,180.50003 127.5312,127.7187 180.5,0.125 127.718781,-127.5625 0.125,-180.46873 -127.531281,-127.75 -180.5,-0.125 z m 13.2188,32.03125 154,0.0937 108.812481,108.96878 -0.0937,154 -108.968781,108.7811 -154,-0.094 -108.8125,-108.9687 0.125,-153.9687 108.9375,-108.81253 z"
+         style="fill:none;stroke:none;filter:url(#filter4230)"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:192.42274475px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="-368.48123"
+         y="1154.5011"
+         id="text4272"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4274"
+           x="-368.48123"
+           y="1154.5011"
+           style="letter-spacing:-14.4899826px;fill:#4d4d4d"><tspan
+   style="font-style:italic;letter-spacing:-14.4899826px;fill:#4d4d4d;-inkscape-font-specification:Sans Bold Italic"
+   id="tspan4276"
+   dx="-4.1699986">n</tspan>B</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4258"
+         d="m -330.10263,868.70089 -127.7188,127.5625 -0.125,180.49991 127.5312,127.7188 180.5,0.125 127.718801,-127.5625 0.125,-180.46871 -127.531201,-127.75 -180.5,-0.125 z m 13.2187,32.03125 154,0.0937 42.5625,42.59375 -262.875,262.87496 -42.75,-42.7813 0.125,-153.9687 108.9375,-108.81246 z m 220.093751,66.28125 42.71875,42.78121 -0.09375,154 -108.968751,108.7813 -154,-0.094 -42.5313,-42.5938 262.875051,-262.87491 z"
+         style="fill:#b44841;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,951.33991,854.87084)"
+       d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.6302511"
+       sodipodi:arg1="1.237552"
+       sodipodi:r2="217.87956"
+       sodipodi:r1="235.83115"
+       sodipodi:cy="812.36218"
+       sodipodi:cx="-777.14288"
+       sodipodi:sides="8"
+       id="path4297"
+       style="fill:#b44841;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4230)"
+       d="m 240.64652,1368.993 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7811 -154,-0.094 -108.8125,-108.9687 0.125,-153.9688 108.9375,-108.8125 z"
+       id="path4299" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4301"
+       d="m 240.0751,1367.7073 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7812 -154,-0.094 -108.8125,-108.9687 0.125,-153.9689 108.9375,-108.8125 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4033"
+       y="604.26239"
+       x="-394.15762"
+       style="font-size:210.67218018px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="604.26239"
+         x="-394.15762"
+         id="tspan4035"
+         sodipodi:role="line">AD</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#b44841;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+       id="path4441"
+       sodipodi:sides="8"
+       sodipodi:cx="-777.14288"
+       sodipodi:cy="812.36218"
+       sodipodi:r1="235.83115"
+       sodipodi:r2="217.87956"
+       sodipodi:arg1="1.237552"
+       sodipodi:arg2="1.6302511"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+       transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,1078.1481,1514.1361)"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon19.png"
+       inkscape:export-xdpi="3.6545777"
+       inkscape:export-ydpi="3.6545777" />
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       d="m 344.5,2027.6875 c -40.26894,40.1789 -80.45706,80.46 -120.90625,120.4375 -0.0417,64.6146 -0.0833,129.2292 -0.125,193.8438 45.58262,45.7297 91.3548,91.2915 136.71875,137.2187 64.60417,0.042 129.20833,0.083 193.8125,0.125 45.67684,-45.6428 91.24799,-91.4241 137.21875,-136.75 0.0417,-64.5937 0.0833,-129.1875 0.125,-193.7813 -45.59796,-45.7146 -91.32287,-91.3032 -136.6875,-137.25 -64.61458,-0.042 -129.22917,-0.083 -193.84375,-0.125 -5.4375,5.4271 -10.875,10.8542 -16.3125,16.2813 z m 43.34375,47.75 c 46.78125,0.03 93.5625,0.064 140.34375,0.094 32.94976,33.2575 66.12019,66.2967 99.15625,99.4688 -0.03,47.0521 -0.0638,94.1042 -0.0937,141.1562 -33.30361,32.893 -66.30147,66.0945 -99.46875,99.125 -47.05208,-0.03 -94.10417,-0.064 -141.15625,-0.094 -32.90322,-33.3038 -66.12928,-66.2875 -99.15625,-99.4687 0.04,-47.0417 0.0851,-94.0834 0.125,-141.125 33.26231,-32.9345 66.26971,-66.1264 99.4375,-99.1563 l 0.8125,0 z"
+       id="path4465"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon19.png"
+       inkscape:export-xdpi="3.6545777"
+       inkscape:export-ydpi="3.6545777" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 366.88773,2026.9754 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7812 -154,-0.094 -108.8125,-108.9687 0.125,-153.9689 108.9375,-108.8125 z"
+       id="path4445"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon19.png"
+       inkscape:export-xdpi="3.6545777"
+       inkscape:export-ydpi="3.6545777" />
+    <path
+       inkscape:export-ydpi="6.1550784"
+       inkscape:export-xdpi="6.1550784"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon16@2x.png"
+       transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,430.69481,1514.1361)"
+       d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.6302511"
+       sodipodi:arg1="1.237552"
+       sodipodi:r2="217.87956"
+       sodipodi:r1="235.83115"
+       sodipodi:cy="812.36218"
+       sodipodi:cx="-777.14288"
+       sodipodi:sides="8"
+       id="path4518"
+       style="fill:#999999;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="6.1550784"
+       inkscape:export-xdpi="6.1550784"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon16@2x.png"
+       inkscape:connector-curvature="0"
+       id="path4520"
+       d="m -302.95329,2027.6875 c -40.26894,40.1789 -80.45706,80.46 -120.90625,120.4375 -0.0417,64.6146 -0.0833,129.2292 -0.125,193.8438 45.58262,45.7297 91.3548,91.2915 136.71875,137.2187 64.60417,0.042 129.20833,0.083 193.8125,0.125 45.67684,-45.6428 91.24799,-91.4241 137.21875,-136.75 0.0417,-64.5937 0.0833,-129.1875 0.125,-193.7813 -45.59796,-45.7146 -91.32287,-91.3032 -136.6875,-137.25 -64.61458,-0.042 -129.22917,-0.083 -193.84375,-0.125 -5.4375,5.4271 -10.875,10.8542 -16.3125,16.2813 z m 43.34375,47.75 c 46.78125,0.03 93.5625,0.064 140.34375,0.094 32.94976,33.2575 66.12019,66.2967 99.15625,99.4688 -0.03,47.0521 -0.0638,94.1042 -0.0937,141.1562 -33.30361,32.893 -66.30147,66.0945 -99.46875,99.125 -47.05208,-0.03 -94.10417,-0.064 -141.15625,-0.094 -32.90322,-33.3038 -66.12928,-66.2875 -99.15625,-99.4687 0.04,-47.0417 0.0851,-94.0834 0.125,-141.125 33.26231,-32.9345 66.26971,-66.1264 99.4375,-99.1563 l 0.8125,0 z"
+       style="fill:#333333;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="6.1550784"
+       inkscape:export-xdpi="6.1550784"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon16@2x.png"
+       inkscape:connector-curvature="0"
+       id="path4522"
+       d="m -280.56556,2026.9754 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7812 -154,-0.094 -108.8125,-108.9687 0.125,-153.9689 108.9375,-108.8125 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <g
+       id="g4618">
+      <text
+         xml:space="preserve"
+         style="font-size:210.78865051px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter4610);font-family:Sans"
+         x="243.46123"
+         y="1666.3932"
+         id="text4558"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4560"
+           x="243.46123"
+           y="1666.3932"
+           style="font-weight:bold;fill:#1a1a1a;-inkscape-font-specification:Sans Bold">G</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4614"
+         y="1662.3932"
+         x="239.46123"
+         style="font-size:210.78865051px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter4610);font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#1a1a1a;-inkscape-font-specification:Sans Bold"
+           y="1662.3932"
+           x="239.46123"
+           id="tspan4616"
+           sodipodi:role="line">G</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4554"
+         y="1662.3932"
+         x="241.46123"
+         style="font-size:210.78865051px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+           y="1662.3932"
+           x="241.46123"
+           id="tspan4556"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g4668"
+       transform="translate(0,-2)">
+      <path
+         transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,386.41328,864.32271)"
+         d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.6302511"
+         sodipodi:arg1="1.237552"
+         sodipodi:r2="217.87956"
+         sodipodi:r1="235.83115"
+         sodipodi:cy="812.36218"
+         sodipodi:cx="-777.14288"
+         sodipodi:sides="8"
+         id="path4344"
+         style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4230)"
+         d="m -324.28011,1378.4449 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7811 -154,-0.094 -108.8125,-108.9687 0.125,-153.9688 108.9375,-108.8125 z"
+         id="path4346" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4348"
+         d="m -324.85153,1377.1592 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7812 -154,-0.094 -108.8125,-108.9687 0.125,-153.9689 108.9375,-108.8125 z"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4650"
+         y="1673.8451"
+         x="-321.1951"
+         style="font-size:210.78865051px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter4610);font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#1a1a1a;-inkscape-font-specification:Sans Bold"
+           y="1673.8451"
+           x="-321.1951"
+           id="tspan4652"
+           sodipodi:role="line">G</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:210.78865051px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter4610);font-family:Sans"
+         x="-325.1951"
+         y="1669.8451"
+         id="text4654"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4656"
+           x="-325.1951"
+           y="1669.8451"
+           style="font-weight:bold;fill:#1a1a1a;-inkscape-font-specification:Sans Bold">G</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:210.78865051px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-323.1951"
+         y="1669.8451"
+         id="text4658"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4660"
+           x="-323.1951"
+           y="1669.8451"
+           style="font-weight:bold;fill:#1a1a1a;-inkscape-font-specification:Sans Bold">G</tspan></text>
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#b44841;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+       id="path4679"
+       sodipodi:sides="8"
+       sodipodi:cx="-777.14288"
+       sodipodi:cy="812.36218"
+       sodipodi:r1="235.83115"
+       sodipodi:r2="217.87956"
+       sodipodi:arg1="1.237552"
+       sodipodi:arg2="1.6302511"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+       transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,951.33991,2301.051)"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/promo/icon38.png"
+       inkscape:export-xdpi="98.611031"
+       inkscape:export-ydpi="98.611031" />
+    <path
+       id="path4681"
+       d="m 240.64652,2815.1732 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7811 -154,-0.094 -108.8125,-108.9687 0.125,-153.9688 108.9375,-108.8125 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4230)"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/promo/icon38.png"
+       inkscape:export-xdpi="98.611031"
+       inkscape:export-ydpi="98.611031" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 240.0751,2813.8875 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7812 -154,-0.094 -108.8125,-108.9687 0.125,-153.9689 108.9375,-108.8125 z"
+       id="path4683"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/promo/icon38.png"
+       inkscape:export-xdpi="98.611031"
+       inkscape:export-ydpi="98.611031" />
+    <path
+       transform="matrix(0.8516635,-0.05009785,0.05009785,0.8516635,386.41328,2308.5029)"
+       d="M -700.00002,1035.2193 -880.17844,1024.4942 -1000,889.50505 l 10.72507,-180.17842 134.98918,-119.82159 180.17842,10.7251 119.82159,134.98918 -10.7251,180.17842 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.6302511"
+       sodipodi:arg1="1.237552"
+       sodipodi:r2="217.87956"
+       sodipodi:r1="235.83115"
+       sodipodi:cy="812.36218"
+       sodipodi:cx="-777.14288"
+       sodipodi:sides="8"
+       id="path4701"
+       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon38-off.png"
+       inkscape:export-xdpi="7.3187876"
+       inkscape:export-ydpi="7.3187876" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4230)"
+       d="m -324.28011,2822.6251 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7811 -154,-0.094 -108.8125,-108.9687 0.125,-153.9688 108.9375,-108.8125 z"
+       id="path4703"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon38-off.png"
+       inkscape:export-xdpi="7.3187876"
+       inkscape:export-ydpi="7.3187876" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4705"
+       d="m -324.85153,2821.3394 -127.71875,127.5625 -0.125,180.5001 127.53125,127.7187 180.5,0.125 127.71875,-127.5625 0.125,-180.4688 -127.53125,-127.75 -180.5,-0.125 z m 13.21875,32.0313 154,0.094 108.8125,108.9687 -0.0937,154.0001 -108.96875,108.7812 -154,-0.094 -108.8125,-108.9687 0.125,-153.9689 108.9375,-108.8125 z"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon38-off.png"
+       inkscape:export-xdpi="7.3187876"
+       inkscape:export-ydpi="7.3187876" />
+    <g
+       id="g4775"
+       transform="translate(-2.3075554,0)"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/promo/icon38.png"
+       inkscape:export-xdpi="98.611031"
+       inkscape:export-ydpi="98.611031">
+      <text
+         xml:space="preserve"
+         style="font-size:190.56204224px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter4762);font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         x="164.40562"
+         y="3105.9065"
+         id="text4742"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4744"
+           x="164.40562"
+           y="3105.9065">ABG</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4754"
+         y="3099.9978"
+         x="160.21857"
+         style="font-size:190.56204224px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter4750);font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         xml:space="preserve"><tspan
+           y="3099.9978"
+           x="160.21857"
+           id="tspan4756"
+           sodipodi:role="line">ABG</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4738"
+         y="3101.2107"
+         x="161.43097"
+         style="font-size:190.56204224px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+         xml:space="preserve"><tspan
+           y="3101.2107"
+           x="161.43097"
+           id="tspan4740"
+           sodipodi:role="line">ABG</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4793"
+       y="3105.4946"
+       x="-405.80322"
+       style="font-size:190.56204224000001091px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon38-off.png"
+       inkscape:export-xdpi="7.3187876"
+       inkscape:export-ydpi="7.3187876"><tspan
+         y="3105.4946"
+         x="-405.80322"
+         id="tspan4795"
+         sodipodi:role="line">ABG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.8997345px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+       x="302.99359"
+       y="2308.2305"
+       id="text4803"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon19.png"
+       inkscape:export-xdpi="3.6545777"
+       inkscape:export-ydpi="3.6545777"><tspan
+         sodipodi:role="line"
+         id="tspan4805"
+         x="302.99359"
+         y="2308.2305">ABG</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4807"
+       y="2308.2305"
+       x="-344.45969"
+       style="font-size:173.8997345px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/home/igor/git/uBlock/dist/build/uBlock.chromium/img/browsericons/icon16@2x.png"
+       inkscape:export-xdpi="6.1550784"
+       inkscape:export-ydpi="6.1550784"><tspan
+         y="2308.2305"
+         x="-344.45969"
+         id="tspan4809"
+         sodipodi:role="line">ABG</tspan></text>
+  </g>
+</svg>

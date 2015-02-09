@@ -1,0 +1,478 @@
+{
+  "extName":{
+    "message":"superNanoBlock",
+    "description":"extension name."
+  },
+  "extShortDesc":{
+    "message":"一款基于Chromium浏览器的高效广告拦截工具，超低的CPU与内存使用。",
+    "description":"this will be in the chrome web store: must be 132 characters or less"
+  },
+  "dashboardName":{
+    "message":"superNanoBlock  控制面板",
+    "description":"English: superNanoBlock — Dashboard"
+  },
+  "settingsPageName":{
+    "message":"设置",
+    "description":"appears as tab name in dashboard"
+  },
+  "3pPageName":{
+    "message":"过滤清单",
+    "description":"appears as tab name in dashboard"
+  },
+  "1pPageName":{
+    "message":"自定义过滤",
+    "description":"appears as tab name in dashboard"
+  },
+  "rulesPageName":{
+    "message":"我的规则",
+    "description":"appears as tab name in dashboard"
+  },
+  "whitelistPageName":{
+    "message":"白名单",
+    "description":"appears as tab name in dashboard"
+  },
+  "statsPageName":{
+    "message":"superNanoBlock — Network request log",
+    "description":"Title for the network request log window"
+  },
+  "aboutPageName":{
+    "message":"关于",
+    "description":"appears as tab name in dashboard"
+  },
+  "popupPowerSwitchInfo":{
+    "message":"点击: superNanoBlock 对此网站 禁用\/启用。Ctrl + 单击：仅在此页面禁用 superNanoBlock。",
+    "description":"English: Click: disable\/enable superNanoBlock for this site.\n\nCtrl+click: disable superNanoBlock only on this page."
+  },
+  "popupBlockedRequestPrompt":{
+    "message":"已拦截广告",
+    "description":"English: requests blocked"
+  },
+  "popupBlockedOnThisPagePrompt":{
+    "message":"本页",
+    "description":"English: on this page"
+  },
+  "popupBlockedSinceInstallPrompt":{
+    "message":"总计",
+    "description":"English: since install"
+  },
+  "popupOr":{
+    "message":"或",
+    "description":"English: or"
+  },
+  "popupTipDashboard":{
+    "message":"单击打开控制面板",
+    "description":"English: Click to open the dashboard"
+  },
+  "popupTipPicker":{
+    "message":"进入元素选择器模式",
+    "description":"English: Enter element picker mode"
+  },
+  "popupTipLog":{
+    "message":"查看请求日志",
+    "description":"English: Go to request log"
+  },
+  "popupSiteInlineScriptEnabled":{
+    "message":"当前网页的内联 <code>脚本<\/code> 标签将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupSiteInlineScriptDisabled":{
+    "message":"当前网页的内联 <code>脚本<\/code> 标签将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupSite1pScriptEnabled":{
+    "message":"当前网页的第一方脚本将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupSite1pScriptDisabled":{
+    "message":"当前网页的第一方脚本将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupSite3pScriptEnabled":{
+    "message":"当前网页的第三方脚本将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupSite3pScriptDisabled":{
+    "message":"当前网页的第三方脚本将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupSite1pFrameEnabled":{
+    "message":"当前网页的第一方框架将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupSite1pFrameDisabled":{
+    "message":"当前网页的第一方框架将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupSite3pFrameEnabled":{
+    "message":"当前网页的第三方框架将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupSite3pFrameDisabled":{
+    "message":"当前网页的第三方框架将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupDefaultInlineScriptEnabled":{
+    "message":"任何内联的 <code>脚本<\/code> 标签在默认情况下都将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupDefaultInlineScriptDisabled":{
+    "message":"任何内联的 <code>脚本<\/code> 标签在默认情况下都将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupDefault1pScriptEnabled":{
+    "message":"任何第一方脚本在默认情况下都将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupDefault1pScriptDisabled":{
+    "message":"任何第一方脚本在默认情况下都将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupDefault3pScriptEnabled":{
+    "message":"任何第三方脚本在默认情况下都将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupDefault3pScriptDisabled":{
+    "message":"任何第三方脚本在默认情况下都将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupDefault1pFrameEnabled":{
+    "message":"任何第一方框架在默认情况下都将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupDefault1pFrameDisabled":{
+    "message":"任何第一方框架在默认情况下都将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupDefault3pFrameEnabled":{
+    "message":"任何第三方框架在默认情况下都将被 <b>允许<\/b>",
+    "description":""
+  },
+  "popupDefault3pFrameDisabled":{
+    "message":"任何第三方框架在默认情况下都将被 <b>屏蔽<\/b>",
+    "description":""
+  },
+  "popupImageRulePrompt":{
+    "message":"图像",
+    "description":""
+  },
+  "popupInlineScriptRulePrompt":{
+    "message":"内联脚本",
+    "description":""
+  },
+  "popup1pScriptRulePrompt":{
+    "message":"第一方脚本",
+    "description":""
+  },
+  "popup3pScriptRulePrompt":{
+    "message":"第三方脚本",
+    "description":""
+  },
+  "popup3pFrameRulePrompt":{
+    "message":"第三方框架",
+    "description":""
+  },
+  "popupHitDomainCountPrompt":{
+    "message":"连接到 {{count}} 不同的域",
+    "description":"appear in dynamic filtering pane"
+  },
+  "pickerCreate":{
+    "message":"创建",
+    "description":"English: Create"
+  },
+  "pickerPick":{
+    "message":"选择",
+    "description":"English: Pick"
+  },
+  "pickerQuit":{
+    "message":"放弃",
+    "description":"English: Quit"
+  },
+  "pickerNetFilters":{
+    "message":"网址过滤",
+    "description":"English: Net filters"
+  },
+  "pickerCosmeticFilters":{
+    "message":"元素过滤",
+    "description":"English: Cosmetic filters"
+  },
+  "pickerCosmeticFiltersHint":{
+    "message":"单击，按住 Ctrl 键单击",
+    "description":"English: Click, Ctrl-click"
+  },
+  "pickerContextMenuEntry":{
+    "message":"屏蔽元素",
+    "description":"English: Block element"
+  },
+  "settingsCollapseBlockedPrompt":{
+    "message":"隐藏已屏蔽元素的占位符",
+    "description":"English: Hide placeholders of blocked elements"
+  },
+  "settingsIconBadgePrompt":{
+    "message":"在图标上显示拦截广告数量",
+    "description":"English: Show the number of blocked requests on the icon"
+  },
+  "settingsContextMenuPrompt":{
+    "message":"加入右键菜单",
+    "description":"English: Make use of context menu where appropriate"
+  },
+  "settingsAdvancedUserPrompt":{
+    "message":"我是高级用户 （<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Advanced-user-features'> 必读<\/a>）",
+    "description":"English: "
+  },
+  "settingsExperimentalPrompt":{
+    "message":"启用实验功能",
+    "description":"English: Enable experimental features"
+  },
+  "3pListsOfBlockedHostsPrompt":{
+    "message":"当前使用{{netFilterCount}} 网址过滤和{{cosmeticFilterCount}} 元素过滤规则:",
+    "description":"English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:"
+  },
+  "3pListsOfBlockedHostsPerListStats":{
+    "message":"{{total}}中使用{{used}}",
+    "description":"English: {{used}} used out of {{total}}"
+  },
+  "3pAutoUpdatePrompt1":{
+    "message":"自动更新过滤规则",
+    "description":"English: Auto-update filter lists."
+  },
+  "3pUpdateNow":{
+    "message":"立即更新",
+    "description":"English: Update now"
+  },
+  "3pPurgeAll":{
+    "message":"清除所有缓存",
+    "description":"English: Purge all caches"
+  },
+  "3pParseAllABPHideFiltersPrompt1":{
+    "message":"解析并应用Adblock+元素隐藏过滤规则。",
+    "description":"English: Parse and enforce Adblock+ element hiding filters."
+  },
+  "3pParseAllABPHideFiltersInfo":{
+    "message":"<p>这项选项启用了对<a href=\"https:\/\/adblockplus.org\/zh_CN\/faq_internal#elemhide\">Adblock Plus相兼容的“元素隐藏”过滤规则<\/a>。这些过滤规则本质上只是装饰，它们被用于隐藏一个网页上被认为碍眼的元素，并且这些元素不能被矩阵过滤或ABP过滤引擎所屏蔽。<\/p><p>启用这项功能将增加<i>superNanoBlock<\/i>的内存使用量。<\/p>",
+    "description":"English: see English messages.json"
+  },
+  "3pListsOfBlockedHostsHeader":{
+    "message":"被屏蔽站点列表",
+    "description":"English: Lists of blocked hosts"
+  },
+  "3pApplyChanges":{
+    "message":"应用变更",
+    "description":"English: Apply changes"
+  },
+  "3pGroupAds":{
+    "message":"广告",
+    "description":"English: Ads"
+  },
+  "3pGroupPrivacy":{
+    "message":"隐私",
+    "description":"English: Privacy"
+  },
+  "3pGroupMalware":{
+    "message":"恶意软件",
+    "description":"English: Malware domains"
+  },
+  "3pGroupSocial":{
+    "message":"社交",
+    "description":"English: Social"
+  },
+  "3pGroupMultipurpose":{
+    "message":"多用途",
+    "description":"English: Multipurpose"
+  },
+  "3pGroupRegions":{
+    "message":"地区语言",
+    "description":"English: Regions, languages"
+  },
+  "3pGroupCustom":{
+    "message":"自定义",
+    "description":"English: Custom"
+  },
+  "3pExternalListsHint":{
+    "message":"每行一条 URL。以“!”开头的行将被忽略。无效的 URL 将被忽略。",
+    "description":"English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored."
+  },
+  "3pExternalListsApply":{
+    "message":"解析",
+    "description":"English: Parse"
+  },
+  "3pExternalListPurge":{
+    "message":"清除缓存",
+    "description":"English: purge cache"
+  },
+  "3pExternalListNew":{
+    "message":"有新版本",
+    "description":"English: new version available"
+  },
+  "3pExternalListObsolete":{
+    "message":"过期",
+    "description":"English: outdated"
+  },
+  "1pFormatHint":{
+    "message":"每行一条规则。一条规则可以是一个平凡的站点名或者是一条Adblock Plus的兼容过滤规则。以“!”开头的行将被忽略。",
+    "description":"English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored."
+  },
+  "1pImport":{
+    "message":"导入并附加规则",
+    "description":"English: Import and append"
+  },
+  "1pExport":{
+    "message":"导出规则",
+    "description":"English: Export"
+  },
+  "1pExportFilename":{
+    "message":"ublock 自定义过滤 {{datetime}}.txt",
+    "description":"English: my-ublock-static-filters_{{datetime}}.txt"
+  },
+  "1pApplyChanges":{
+    "message":"应用变更",
+    "description":"English: Apply changes"
+  },
+  "rulesEdit":{
+    "message":"编辑",
+    "description":"Will enable manual-edit mode (textarea)"
+  },
+  "rulesEditSave":{
+    "message":"保存",
+    "description":"Will save manually-edited content and exit manual-edit mode"
+  },
+  "rulesEditDiscard":{
+    "message":"取消",
+    "description":"Will discard manually-edited content and exit manual-edit mode"
+  },
+  "rulesImport":{
+    "message":"从文件导入...",
+    "description":""
+  },
+  "rulesExport":{
+    "message":"导出为文件",
+    "description":""
+  },
+  "rulesDefaultFileName":{
+    "message":"ublock 规则.txt",
+    "description":"default file name to use"
+  },
+  "rulesHint":{
+    "message":"List of your dynamic filtering rules.",
+    "description":"English: List of your dynamic filtering rules."
+  },
+  "rulesFormatHint":{
+    "message":"Rule syntax: <code>source destination type action<\/code> (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Dynamic-filtering:-rule-syntax'>full documentation<\/a>).",
+    "description":"English: dynamic rule syntax and full documentation."
+  },
+  "whitelistPrompt":{
+    "message":"列表里的主机名将被 superNanoBlock 禁用。每行一条规则。无效的主机名将被忽略掉。",
+    "description":"English: Your list of host names for which superNanoBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+  },
+  "whitelistImport":{
+    "message":"导入并附加规则",
+    "description":"English: Import and append"
+  },
+  "whitelistExport":{
+    "message":"导出规则",
+    "description":"English: Export"
+  },
+  "whitelistExportFilename":{
+    "message":"ublock 白名单 {{datetime}}.txt",
+    "description":"English: my-ublock-whitelist_{{datetime}}.txt"
+  },
+  "whitelistApply":{
+    "message":"应用变更",
+    "description":"English: Apply changes"
+  },
+  "logNetRequestsPrompt":{
+    "message":"启用网络请求记录",
+    "description":"English: Enable the logging of network requests"
+  },
+  "logNetRequestsHelp":{
+    "message":"开启此选项，将可以查看网络请求的详细信息。这个功能会增加superNanoBlock的内存使用量。由于多数用户不需要此功能，它默认是禁用的。",
+    "description":"English: see _locales\/en\/messages.log"
+  },
+  "logBlockedRequestsHeader":{
+    "message":"拦截请求",
+    "description":"English: Blocked requests"
+  },
+  "logAllowedRequestsHeader":{
+    "message":"允许请求",
+    "description":"English: Allowed requests"
+  },
+  "logRequestsHeaderType":{
+    "message":"类型",
+    "description":"English: Type"
+  },
+  "logRequestsHeaderDomain":{
+    "message":"域名",
+    "description":"English: Domain"
+  },
+  "logRequestsHeaderURL":{
+    "message":"网址",
+    "description":"English: URL"
+  },
+  "logRequestsHeaderFilter":{
+    "message":"过滤",
+    "description":"English: Filter"
+  },
+  "logBlockedRequestsEmpty":{
+    "message":"该页面没有拦截记录",
+    "description":"English: No blocked requests logged for this page"
+  },
+  "logAllowedRequestsEmpty":{
+    "message":"该页面没有未拦截记录",
+    "description":"English: No non-blocked requests logged for this page"
+  },
+  "logBehindTheScene":{
+    "message":"Behind the scene",
+    "description":"Pretty name for behind-the-scene network requests"
+  },
+  "aboutChangelog":{
+    "message":"更新日志",
+    "description":"English: Change log"
+  },
+  "aboutWiki":{
+    "message":"Wiki 百科",
+    "description":"English: project' wiki on Github"
+  },
+  "aboutCode":{
+    "message":"源代码 (GPLv3)",
+    "description":"English: Source code (GPLv3)"
+  },
+  "aboutContributors":{
+    "message":"贡献者",
+    "description":"English: Contributors"
+  },
+  "aboutBackupDataButton":{
+    "message":"备份到文件...",
+    "description":"English: Backup to file"
+  },
+  "aboutBackupFilename":{
+    "message":"ublock 备份_{{datetime}}.txt",
+    "description":"English: my-ublock-backup_{{datetime}}.txt"
+  },
+  "aboutRestoreDataButton":{
+    "message":"从文件还原...",
+    "description":"English: Restore from file..."
+  },
+  "aboutResetDataButton":{
+    "message":"重置为默认设置",
+    "description":"English: Reset to default settings..."
+  },
+  "aboutRestoreDataConfirm":{
+    "message":"所有设置将被备份数据覆盖在， superNanoBlock 将重新启动。\n确定用备份的数据覆盖现有的设置吗？",
+    "description":"Message asking user to confirm restore"
+  },
+  "aboutRestoreDataError":{
+    "message":"数据无法读取或无效",
+    "description":"Message to display when an error occurred during restore"
+  },
+  "aboutResetDataConfirm":{
+    "message":"您的设置将被清除，superNanoBlock 将重新启动。\n确定将 superNanoBlock 重置？",
+    "description":"Message asking user to confirm reset"
+  },
+  "errorCantConnectTo":{
+    "message":"无法连接到 {{url}}",
+    "description":"English: Network error: unable to connect to {{url}}"
+  },
+  "dummy":{
+    "message":"此条目必须是最后一个",
+    "description":"so we dont need to deal with comma for last entry"
+  }
+}

@@ -1,0 +1,21 @@
+#whitelist {
+    font-size: small;
+    width: 100%;
+    height: 400px;
+    white-space: pre;
+	text-align: left;
+    }
+#whitelist.bad {
+    background-color: #fee;
+    }
+
+#whitelistApply{
+    float:right;
+}
+
+.wrapper{
+    width:100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top:10px;
+}
