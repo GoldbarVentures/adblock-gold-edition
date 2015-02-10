@@ -241,6 +241,12 @@ var onMessage = function(request, sender, callback) {
             break;
 
         case 'toggleNetFiltering':
+            // var reload = confirm("For best performanse, this page must be reloaded. Reload this page now?");
+            // if(reload){
+            //     chrome.tabs.reload(request.tabId);
+            // } else {
+            //     break;
+            // }
             µb.toggleNetFilteringSwitch(
                 request.url,
                 request.scope,

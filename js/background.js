@@ -62,7 +62,7 @@ return {
         experimentalEnabled: false,
         externalLists: defaultExternalLists,
         parseAllABPHideFilters: true,
-        showIconBadge: true
+        showIconBadge: false
     },
 
     // https://github.com/gorhill/uBlock/issues/180

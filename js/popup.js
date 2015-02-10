@@ -369,6 +369,7 @@ var toggleNetFilteringSwitch = function(ev) {
     if ( !popupData || !popupData.pageURL ) {
         return;
     }
+    chrome.tabs.reload(popupData.tabId);
     messager.send({
         what: 'toggleNetFiltering',
         url: popupData.pageURL,
