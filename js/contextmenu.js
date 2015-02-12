@@ -72,20 +72,20 @@ var onContextMenuClicked = function(details, tab) {
 var toggleMenu = function(on) {
     // This needs to be local scope: we can't reuse it for more than one
     // menu creation call.
-    var menuCreateDetails = {
-        id: 'blockElement',
-        title: vAPI.i18n('pickerContextMenuEntry'),
-        contexts: ['page', 'editable', 'frame', 'link', 'image', 'video'],
-        documentUrlPatterns: ['https://*/*', 'http://*/*']
-    };
+    // var menuCreateDetails = {
+    //     id: 'blockElement',
+    //     title: vAPI.i18n('pickerContextMenuEntry'),
+    //     contexts: ['page', 'editable', 'frame', 'link', 'image', 'video'],
+    //     documentUrlPatterns: ['https://*/*', 'http://*/*']
+    // };
 
-    if ( on === true && enabled === false ) {
-        vAPI.contextMenu.create(menuCreateDetails, onContextMenuClicked);
-        enabled = true;
-    } else if ( on !== true && enabled === true ) {
-        vAPI.contextMenu.remove();
-        enabled = false;
-    }
+    // if ( on === true && enabled === false ) {
+    //     vAPI.contextMenu.create(menuCreateDetails, onContextMenuClicked);
+    //     enabled = true;
+    // } else if ( on !== true && enabled === true ) {
+    //     vAPI.contextMenu.remove();
+    //     enabled = false;
+    // }
 };
 
 /******************************************************************************/
