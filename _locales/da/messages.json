@@ -1,6 +1,6 @@
 {
   "extName":{
-    "message":"AdBlock Gold Edition",
+    "message":"AdBlock Plus Free",
     "description":"extension name."
   },
   "extShortDesc":{
@@ -8,8 +8,8 @@
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"AdBlock Gold Edition — Dashboard",
-    "description":"English: AdBlock Gold Edition — Dashboard"
+    "message":"AdBlock Plus Free — Dashboard",
+    "description":"English: AdBlock Plus Free — Dashboard"
   },
   "settingsPageName":{
     "message":"Indstillinger",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"AdBlock Gold Edition — Netværkslog",
+    "message":"AdBlock Plus Free — Netværkslog",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"tryk på power-knappen for at <br>permanent deaktivere eller aktivere <br>AdBlock Gold Edition på den nuværende side",
-    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
+    "message":"tryk på power-knappen for at <br>permanent deaktivere eller aktivere <br>AdBlock Plus Free på den nuværende side",
+    "description":"English: Click: disable\/enable AdBlock Plus Free for this site.\n\nCtrl+click: disable AdBlock Plus Free only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"forespørgsler blokeret",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>Denne indstilling giver mulighed for analyse og anvendelse af  <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-kompatibel &ldquo;skjulnings filtre&rdquo;<\/a>. Disse filtre er i sidste ende kosmetiske, da de skjuler elementer på sider der normalt ville være visuelt irriterende, og som ikke kan blokeres med den netforespørgselsbaserede motor.<\/p><p>Ved at aktivere denne funktion bliver <i>AdBlock Gold Edition<\/i>s hukkomelsesforbrug større.<\/p>",
+    "message":"<p>Denne indstilling giver mulighed for analyse og anvendelse af  <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-kompatibel &ldquo;skjulnings filtre&rdquo;<\/a>. Disse filtre er i sidste ende kosmetiske, da de skjuler elementer på sider der normalt ville være visuelt irriterende, og som ikke kan blokeres med den netforespørgselsbaserede motor.<\/p><p>Ved at aktivere denne funktion bliver <i>AdBlock Plus Free<\/i>s hukkomelsesforbrug større.<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"Din liste over sider hvor AdBlock Gold Edition vil være deaktiveret. Kun én adresse pr. linje. Ugyldige værtsnavne ignoreres lydløst.",
-    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"Din liste over sider hvor AdBlock Plus Free vil være deaktiveret. Kun én adresse pr. linje. Ugyldige værtsnavne ignoreres lydløst.",
+    "description":"English: Your list of host names for which AdBlock Plus Free will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"Importer og tilføj",
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"Alle dine indstillinger vil blive overskrevet med data sikkerhedskopieret {{time}}, og AdBlock Gold Edition vil genstarte.\n\nOverskriv alle indstillinger med sikkerhedskopieret data?",
+    "message":"Alle dine indstillinger vil blive overskrevet med data sikkerhedskopieret {{time}}, og AdBlock Plus Free vil genstarte.\n\nOverskriv alle indstillinger med sikkerhedskopieret data?",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"Alle dine indstillinger bliver fjernet, og AdBlock Gold Edition genstarter.\n\nNulstil AdBlock Gold Edition til fabriksindstillinger?",
+    "message":"Alle dine indstillinger bliver fjernet, og AdBlock Plus Free genstarter.\n\nNulstil AdBlock Plus Free til fabriksindstillinger?",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{

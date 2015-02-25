@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
 
-    "name": "AdBlock Gold Edition",
-    "version": "0.8.6.4",
+    "name": "AdBlock Plus Free",
+    "version": "0.8.7.1",
 
     "default_locale": "en",
     "description": "__MSG_extShortDesc__",
@@ -16,7 +16,7 @@
             "19": "img/browsericons/icon19-off.png",
             "38": "img/browsericons/icon38-off.png"
         },
-        "default_title": "AdBlock Gold Edition",
+        "default_title": "AdBlock Plus Free",
         "default_popup": "popup.html"
     },
 

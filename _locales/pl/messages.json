@@ -1,6 +1,6 @@
 {
   "extName":{
-    "message":"AdBlock Gold Edition",
+    "message":"AdBlock Plus Free",
     "description":"extension name."
   },
   "extShortDesc":{
@@ -8,8 +8,8 @@
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"AdBlock Gold Edition — Kokpit",
-    "description":"English: AdBlock Gold Edition — Dashboard"
+    "message":"AdBlock Plus Free — Kokpit",
+    "description":"English: AdBlock Plus Free — Dashboard"
   },
   "settingsPageName":{
     "message":"Ustawienia",
@@ -32,7 +32,7 @@
     "description":"appears as tab name in dashboard"
   },
   "statsPageName":{
-    "message":"AdBlock Gold Edition — Log żądań sieciowych",
+    "message":"AdBlock Plus Free — Log żądań sieciowych",
     "description":"Title for the network request log window"
   },
   "aboutPageName":{
@@ -40,8 +40,8 @@
     "description":"appears as tab name in dashboard"
   },
   "popupPowerSwitchInfo":{
-    "message":"Kliknij, aby na stałe włączyć\/wyłączyć AdBlock Gold Edition dla tej witryny.\n\nKliknij z wciśniętym klawiszem Ctrl, aby wyłączyć AdBlock Gold Edition tylko dla tej strony.",
-    "description":"English: Click: disable\/enable AdBlock Gold Edition for this site.\n\nCtrl+click: disable AdBlock Gold Edition only on this page."
+    "message":"Kliknij, aby na stałe włączyć\/wyłączyć AdBlock Plus Free dla tej witryny.\n\nKliknij z wciśniętym klawiszem Ctrl, aby wyłączyć AdBlock Plus Free tylko dla tej strony.",
+    "description":"English: Click: disable\/enable AdBlock Plus Free for this site.\n\nCtrl+click: disable AdBlock Plus Free only on this page."
   },
   "popupBlockedRequestPrompt":{
     "message":"zablokowane żądania",
@@ -248,7 +248,7 @@
     "description":"English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo":{
-    "message":"<p>Opcja ta włącza przetwarzanie i używanie filtrów <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">ukrywania elementów kompatybilnych z Adblock Plus<\/a>. Filtry te są głównie kosmetyczne, służą do ukrycia elementów na stronach, które są uważane za wizualne uciążliwe, a które nie mogą zostać zablokowane przez mechanizm filtrujący.<\/p><p>Włączenie tej funkcji zwiększa zużycie pamięci przez <i>AdBlock Gold Edition<\/i>.<\/p>",
+    "message":"<p>Opcja ta włącza przetwarzanie i używanie filtrów <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">ukrywania elementów kompatybilnych z Adblock Plus<\/a>. Filtry te są głównie kosmetyczne, służą do ukrycia elementów na stronach, które są uważane za wizualne uciążliwe, a które nie mogą zostać zablokowane przez mechanizm filtrujący.<\/p><p>Włączenie tej funkcji zwiększa zużycie pamięci przez <i>AdBlock Plus Free<\/i>.<\/p>",
     "description":"English: see English messages.json"
   },
   "3pListsOfBlockedHostsHeader":{
@@ -360,8 +360,8 @@
     "description":"English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt":{
-    "message":"Twoja lista nazw hostów, na których AdBlock Gold Edition zostanie wyłączony. Jeden wpis na linię. Błędne nazwy hostów zostaną zignorowane.",
-    "description":"English: Your list of host names for which AdBlock Gold Edition will be disabled. One host name per line. Invalid host names will be silently ignored."
+    "message":"Twoja lista nazw hostów, na których AdBlock Plus Free zostanie wyłączony. Jeden wpis na linię. Błędne nazwy hostów zostaną zignorowane.",
+    "description":"English: Your list of host names for which AdBlock Plus Free will be disabled. One host name per line. Invalid host names will be silently ignored."
   },
   "whitelistImport":{
     "message":"Importuj i dołącz",
@@ -384,7 +384,7 @@
     "description":"English: Enable the logging of network requests"
   },
   "logNetRequestsHelp":{
-    "message":"Możesz zobaczyć dokładne informacje o żądaniach sieciowych poprzez włączenie tej opcji. Rejestrowanie żądań zwiększa użycie pamięci przez AdBlock Gold Edition. Ponieważ większość użytkowników nigdy nie używa tej opcji, domyślnie jest wyłączona.",
+    "message":"Możesz zobaczyć dokładne informacje o żądaniach sieciowych poprzez włączenie tej opcji. Rejestrowanie żądań zwiększa użycie pamięci przez AdBlock Plus Free. Ponieważ większość użytkowników nigdy nie używa tej opcji, domyślnie jest wyłączona.",
     "description":"English: see _locales\/en\/messages.log"
   },
   "logBlockedRequestsHeader":{
@@ -456,7 +456,7 @@
     "description":"English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm":{
-    "message":"Wszystkie twoje ustawienia zostaną nadpisane przez kopię stworzoną {{time}}. AdBlock Gold Edition zostanie uruchomiony ponownie.\n\nPrzywrócić ustawienia z kopii zapasowej?",
+    "message":"Wszystkie twoje ustawienia zostaną nadpisane przez kopię stworzoną {{time}}. AdBlock Plus Free zostanie uruchomiony ponownie.\n\nPrzywrócić ustawienia z kopii zapasowej?",
     "description":"Message asking user to confirm restore"
   },
   "aboutRestoreDataError":{
@@ -464,7 +464,7 @@
     "description":"Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm":{
-    "message":"Wszystkie twoje ustawienia zostaną usunięte, AdBlock Gold Edition uruchomi się ponownie.\n\nCzy chcesz przywrócić domyślne ustawienia?",
+    "message":"Wszystkie twoje ustawienia zostaną usunięte, AdBlock Plus Free uruchomi się ponownie.\n\nCzy chcesz przywrócić domyślne ustawienia?",
     "description":"Message asking user to confirm reset"
   },
   "errorCantConnectTo":{
